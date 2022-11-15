@@ -1,0 +1,16 @@
+15
+713;Cassia bark Stella Baines;Patí Català;86.5;4.14;3;82010;new;28;Dimension C-137
+4780369;Jump Pork;Laser;221.55;5.19;2;78327;new;16;Dimension C-137
+6;Entropy Projection Juniper Berries;Ludic;202.81;4.47;8;84737;new;10;Earth
+6056688;Sausages George McFly;Ludic;157.54;5.61;8;87602;restored;8;On a Cob Planet
+33326;Miso Dr. Emmett Brown;Windsurf;13.97;0.78;1;59864;new;44;Interdimensional Customs
+9068776;Yeast Leonard McCoy;Ludic;178.87;5.36;8;7507;new;21;Bird World
+324186;Stamina Hokkien Noodles;Laser;255.86;5.47;2;60770;restored;10;Planet Squanch
+9;Peaches Jonathan Archer;Patí Català;92.87;3.49;3;73702;restored;41;Eithel Sirion
+75389;Garam Masala Seven of Nine;Taz;34.95;0.9;1;2486;new;24;Interdimensional Customs
+2622;Figs Nyota Uhuru;Ludic;194.63;4.21;8;81651;restored;15;Pluto
+193;Maple Syrup Odo;Topaz;33.5;4.35;2;46540;new;17;Caladan
+760602;Hyperkinesis Peppermint;Topaz;35.21;4.03;2;73750;restored;20;Gazorpazorp
+925221;Cumquat Linda McFly;Topaz;36.9;5.38;2;80168;new;21;Alphabetrium
+20022735;Possession Fish Sauce;HobieDragoon;88.42;3.9;3;35418;new;22;Glapflap
+441006;Starfruit Lou;Taz;32.33;1.04;1;61732;new;7;Cronenberg World
