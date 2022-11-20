@@ -70,12 +70,12 @@ public class Menu {
 
     public static void showMenu() {
         System.out.println(
-                        "\n--------------------------------------------------------------------------\n" +
+                        "\n--------------------------------------------------------------------\n" +
                         "\nWhat do you want to do?\n\n" +
-                        "   1. Ordenar embarcacions en funció de l’antiguitat\n" +
-                        "   2. Ordenar embarcacions en funció del nom\n" +
-                        "   3. Ordenar embarcacions en funció de les prestacions\n" +
-                        "   4. Sortir\n\n--------------------------------------------------------------------------\n");
+                        "   1. Sort vessels by age\n" +
+                        "   2. Sort vessels by name\n" +
+                        "   3. Sort vessels by capabilities\n" +
+                        "   4. Exit\n\n--------------------------------------------------------------------\n");
     }
 
 }
