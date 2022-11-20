@@ -1,17 +1,20 @@
 package src;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
 
-        int option = -1;
+        int option;
+
+        Menu.showInitialGreeting();
+
         do {
-            Menu.ShowMenu();
-            option = Menu.askForInteger("Please choose an option: ", 1, 4, s);
-            Menu.runOption(option, s);
+
+            Menu.showMenu();
+            option = Menu.askForInteger("Please choose an option: ", 1, 4);
+            Menu.runSelectedOption(option);
+
         } while (option != 4);
+
     }
 
 }

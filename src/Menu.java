@@ -5,30 +5,24 @@ import java.util.Scanner;
 
 public class Menu {
 
-    public static void runOption(int option, Scanner s) {
-
-
-        System.out.println();
+    public static void runSelectedOption(int option) {
 
         switch (option) {
+
             case 1:
 
-                System.out.println("⣿⣿⣿⣿⣿⣿\n" +
-                        "⣿⣿\n" +
-                        "⣿⣿⣿⣿\n" +
-                        "⣿⣿\n" +
-                        "⣿⣿\n" +
-                        "⣿⣿");
                 break;
 
             case 2:
 
                 break;
+
             case 3:
 
                 break;
+
             case 4:
-                System.out.println("───────────────────────────────────────────────────────────\n" +
+                System.out.print("\n───────────────────────────────────────────────────────────\n" +
                         "─██████████████───████████──████████─██████████████─██████─\n" +
                         "─██░░░░░░░░░░██───██░░░░██──██░░░░██─██░░░░░░░░░░██─██░░██─\n" +
                         "─██░░██████░░██───████░░██──██░░████─██░░██████████─██░░██─\n" +
@@ -40,19 +34,17 @@ public class Menu {
                         "─██░░████████░░██───────██░░██───────██░░██████████─██████─\n" +
                         "─██░░░░░░░░░░░░██───────██░░██───────██░░░░░░░░░░██─██░░██─\n" +
                         "─████████████████───────██████───────██████████████─██████─\n" +
-                        "───────────────────────────────────────────────────────────");
+                        "───────────────────────────────────────────────────────────\n");
                 break;
 
         }
-
-        System.out.println();
     }
 
 
-    /**
-     * Descripcion: Pregunt
-     */
-    static int askForInteger(String message, int min, int max, Scanner s) {
+    static int askForInteger(String message, int min, int max) {
+
+        Scanner s = new Scanner(System.in);
+
         int option = min - 1;
 
         do {
@@ -60,10 +52,10 @@ public class Menu {
             try {
                 option = s.nextInt();
                 if (option < min || option > max) {
-                    System.out.printf("Please enter a number between %d and %d.%n", min, max);
+                    System.out.printf("\nPlease enter a number between %d and %d.%n\n", min, max);
                 }
             } catch (InputMismatchException e) {
-                System.out.println("Please enter a number.");
+                System.out.println("\nPlease enter a number.\n");
             } finally {
                 s.nextLine();
             }
@@ -72,12 +64,18 @@ public class Menu {
         return option;
     }
 
-    public static void ShowMenu() {
-        System.out.println(
-                "Welcome to CatTheHobie!\n--------------------------------------------------------------------------\nWhat do you want to do?\n\n" +
-                        "   1. Embarcacions en funció de l’antiguitat\n" +
-                        "   2. Embarcacions en funció del nom\n" +
-                        "   3. Embarcacions en funció de les prestacions\n" +
-                        "   4. Exit\n--------------------------------------------------------------------------\n");
+    public static void showInitialGreeting() {
+        System.out.println("\nWelcome to CatTheHobie!");
     }
+
+    public static void showMenu() {
+        System.out.println(
+                        "\n--------------------------------------------------------------------------\n" +
+                        "\nWhat do you want to do?\n\n" +
+                        "   1. Ordenar embarcacions en funció de l’antiguitat\n" +
+                        "   2. Ordenar embarcacions en funció del nom\n" +
+                        "   3. Ordenar embarcacions en funció de les prestacions\n" +
+                        "   4. Sortir\n\n--------------------------------------------------------------------------\n");
+    }
+
 }
