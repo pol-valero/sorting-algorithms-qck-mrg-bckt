@@ -10,15 +10,15 @@ public class Menu {
         switch (option) {
 
             case 1:
-
+                SortingAlgorithms.quickSortAge();
                 break;
 
             case 2:
-
+                SortingAlgorithms.mergeSortName();
                 break;
 
             case 3:
-
+                SortingAlgorithms.bucketSortCapabilities();
                 break;
 
             case 4:
