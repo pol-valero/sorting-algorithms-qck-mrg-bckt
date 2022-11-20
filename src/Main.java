@@ -1,17 +1,21 @@
 package src;
 
+import java.util.LinkedList;
+
 public class Main {
     public static void main(String[] args) {
 
         int option;
 
-        Menu.showInitialGreeting();
+        LinkedList<Vessel> vessels;
+
+        vessels = Menu.DatasetSelection();
 
         do {
 
-            Menu.showMenu();
+            Menu.show();
             option = Menu.askForInteger("Please choose an option: ", 1, 4);
-            Menu.runSelectedOption(option);
+            Menu.runSelectedOption(option, vessels);
 
         } while (option != 4);
 

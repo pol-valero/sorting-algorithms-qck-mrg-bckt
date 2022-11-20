@@ -1,24 +1,25 @@
 package src;
 
 import java.util.InputMismatchException;
+import java.util.LinkedList;
 import java.util.Scanner;
 
 public class Menu {
 
-    public static void runSelectedOption(int option) {
+    public static void runSelectedOption(int option, LinkedList<Vessel> vessels) {
 
         switch (option) {
 
             case 1:
-                SortingAlgorithms.quickSortAge();
+                SortingAlgorithms.quickSortAge(vessels);
                 break;
 
             case 2:
-                SortingAlgorithms.mergeSortName();
+                SortingAlgorithms.mergeSortName(vessels);
                 break;
 
             case 3:
-                SortingAlgorithms.bucketSortCapabilities();
+                SortingAlgorithms.bucketSortCapabilities(vessels);
                 break;
 
             case 4:
@@ -64,11 +65,49 @@ public class Menu {
         return option;
     }
 
-    public static void showInitialGreeting() {
+    public static LinkedList<Vessel> DatasetSelection() {
+
+        LinkedList<Vessel> vessels;
+        int option;
+
         System.out.println("\nWelcome to CatTheHobie!");
+
+        System.out.println("\nDataset selection");
+
+        System.out.print("\n\t1) fleetXS.txt");
+        System.out.print("\n\t2) fleetS.txt");
+        System.out.print("\n\t3) fleetM.txt");
+        System.out.println("\n\t4) fleetL.txt\n");
+
+        option = Menu.askForInteger("Please choose an option: ", 1, 4);
+
+        switch (option) {
+            case 1:
+                vessels = DatasetLoader.loadVessels("fleetXS.txt");
+                break;
+
+            case 2:
+                vessels = DatasetLoader.loadVessels("fleetS.txt");
+                break;
+
+            case 3:
+                vessels = DatasetLoader.loadVessels("fleetM.txt");
+                break;
+
+            case 4:
+                vessels = DatasetLoader.loadVessels("fleetL.txt");
+                break;
+
+            default:
+                vessels = DatasetLoader.loadVessels("fleetXS.txt");
+                break;
+        }
+
+
+        return vessels;
     }
 
-    public static void showMenu() {
+    public static void show() {
         System.out.println(
                         "\n--------------------------------------------------------------------\n" +
                         "\nWhat do you want to do?\n\n" +
