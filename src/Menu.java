@@ -15,7 +15,20 @@ public class Menu {
                 break;
 
             case 2:
-                SortingAlgorithms.mergeSortName(vessels);
+                //Variable n para el tamaño del linkedList
+                int n = vessels.size();
+
+                //Variable para el for
+                int i;
+
+                //Ordena la lista mediante la funcion de mergeSort
+                SortingAlgorithms.mergeSort_sort(vessels, 0, n - 1);
+
+                //Listar la lista de barcos ordenado alfabeticamente.
+                System.out.println("Nombre de Barcos:");
+                for (i = 0; i <= vessels.size() - 1; i++){
+                    System.out.println("- " + vessels.get(i).getName());
+                }
                 break;
 
             case 3:

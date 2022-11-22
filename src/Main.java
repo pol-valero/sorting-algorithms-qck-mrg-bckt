@@ -8,7 +8,6 @@ public class Main {
         int option;
 
         LinkedList<Vessel> vessels;
-
         vessels = Menu.DatasetSelection();
 
         do {

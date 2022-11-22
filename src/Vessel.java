@@ -27,6 +27,9 @@ public class Vessel {
         this.center = center;
     }
 
+    public String getName(){
+        return name;
+    }
 
 
 }
