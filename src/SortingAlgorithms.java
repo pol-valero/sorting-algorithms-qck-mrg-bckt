@@ -59,7 +59,7 @@ public class SortingAlgorithms {
 
 
         while (i <= middle && j <= right) //copia el siguiente elemento más grande
-            if (Character.compare(B.get(i).getName().charAt(0), B.get(j).getName().charAt(0)) <= 0)
+            if (Character.compare(B.get(i).name.charAt(0), B.get(j).name.charAt(0)) <= 0)
                 vessels.set(k++, B.get(i++));
             else
                 vessels.set(k++, B.get(j++));
@@ -75,6 +75,8 @@ public class SortingAlgorithms {
             //cadascun. Un cop això estigui fet, per cada vaixell tindrem un resultat
             //de la suma ponderada de les seves prestacions. Aquest resultat es el que
             //utilitzarem per a ordenar els vaixells
+
+
 
         }
 }

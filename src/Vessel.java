@@ -26,10 +26,4 @@ public class Vessel {
         this.speed = speed;
         this.center = center;
     }
-
-    public String getName(){
-        return name;
-    }
-
-
 }

@@ -27,7 +27,7 @@ public class Menu {
                 //Listar la lista de barcos ordenado alfabeticamente.
                 System.out.println("Nombre de Barcos:");
                 for (i = 0; i <= vessels.size() - 1; i++){
-                    System.out.println("- " + vessels.get(i).getName());
+                    System.out.println("- " + vessels.get(i).name);
                 }
                 break;
 
