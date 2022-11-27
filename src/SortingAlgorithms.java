@@ -5,29 +5,66 @@ import java.util.LinkedList;
 
 public class SortingAlgorithms {
 
-    //Aquesta funció només s'utilitza per a printejar l'array d'objectes
-    //completa per pantalla (per testejar). S'ha de borrar al final.
-    private static void printAllDatasetObjects(LinkedList<Vessel> vessels) {
-        for (Vessel vessel : vessels) {
-            System.out.print("\n\n");
-            for (Field field : vessel.getClass().getDeclaredFields()) {
-                String name = field.getName();
-                Object value;
-                try {
-                    value = field.get(vessel);
-                } catch (IllegalAccessException e) {
-                    throw new RuntimeException(e);
-                }
-                System.out.printf("%s: %s%n", name, value);
-            }
+
+
+
+    public static void quickSortAge(LinkedList<Vessel> vessels) {
+        quickSortAge(vessels, 0, vessels.size() - 1);
+    }
+
+    private static void quickSortAge(LinkedList<Vessel> vessels, int i, int j) {
+        int p;
+        if (i >= j) {
+            return;
+        } else {
+            p = partition(vessels, i, j);
+            quickSortAge(vessels, i, p);
+            quickSortAge(vessels, p + 1, j);
+
         }
     }
 
-    public static void quickSortAge(LinkedList<Vessel> vessels) {
+    private static int partition(LinkedList<Vessel> vessels, int i, int j) {
+
+        Vessel auxVessel;
+
+        int l, r;
+        int middle;
+        int pivot;
+
+        l = i;
+        r = j;
+
+        middle = (i + j) / 2;
+
+        pivot = vessels.get(middle).id;
+
+        while (true) {
+
+            while(vessels.get(l).id < pivot) {
+                l++;
+            }
+            while(vessels.get(r).id > pivot) {
+                r--;
+            }
+
+            if (l >= r) {
+                return r;
+            }
+
+            auxVessel = vessels.get(l);
+            vessels.set(l, vessels.get(r));
+            vessels.set(r, auxVessel);
+
+            l++;
+            r--;
+
+        }
 
     }
 
-    /*Esta funcion divide la linked list en varias funciones, donde tambien llama a si mismo para seguir dividiendose hasta quedar 1 */
+
+        /*Esta funcion divide la linked list en varias funciones, donde tambien llama a si mismo para seguir dividiendose hasta quedar 1 */
 
     public static void mergeSort_sort(LinkedList<Vessel> vessels, int left, int right) {
         if (left < right) {

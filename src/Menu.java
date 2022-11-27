@@ -1,5 +1,6 @@
 package src;
 
+import java.lang.reflect.Field;
 import java.util.InputMismatchException;
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -12,23 +13,20 @@ public class Menu {
 
             case 1:
                 SortingAlgorithms.quickSortAge(vessels);
+                System.out.println("\nThe vessels have been sorted by age using QuickSort\n");
+                printSortedObjectList(vessels, false);
                 break;
 
             case 2:
                 //Variable n para el tamaño del linkedList
                 int n = vessels.size();
 
-                //Variable para el for
-                int i;
 
                 //Ordena la lista mediante la funcion de mergeSort
                 SortingAlgorithms.mergeSort_sort(vessels, 0, n - 1);
 
-                //Listar la lista de barcos ordenado alfabeticamente.
-                System.out.println("Nombre de Barcos:");
-                for (i = 0; i <= vessels.size() - 1; i++){
-                    System.out.println("- " + vessels.get(i).name);
-                }
+                System.out.println("\nThe vessels have been sorted by name using MergeSort\n");
+                printSortedObjectList(vessels, true);
                 break;
 
             case 3:
@@ -128,6 +126,34 @@ public class Menu {
                         "   2. Sort vessels by name\n" +
                         "   3. Sort vessels by capabilities\n" +
                         "   4. Exit\n\n--------------------------------------------------------------------\n");
+    }
+
+    private static void printSortedObjectList(LinkedList<Vessel> vessels, Boolean ascendingOrder) {
+        int i;
+
+        if (ascendingOrder) {
+            for (i = 0; i < vessels.size(); i++) {
+                printObjectFields(vessels, i);
+            }
+        } else {
+            for (i = vessels.size() - 1; i >= 0; i--) {
+                printObjectFields(vessels, i);
+            }
+        }
+    }
+
+    private static void printObjectFields(LinkedList<Vessel> vessels, int i) {
+        System.out.print("\n\n");
+        for (Field field : vessels.get(i).getClass().getDeclaredFields()) {
+            String name = field.getName();
+            Object value;
+            try {
+                value = field.get(vessels.get(i));
+            } catch (IllegalAccessException e) {
+                throw new RuntimeException(e);
+            }
+            System.out.printf("%s: %s%n", name, value);
+        }
     }
 
 }
