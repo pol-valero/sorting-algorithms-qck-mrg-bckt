@@ -25,14 +25,14 @@ public class Menu {
                 break;
 
             case 2:
-                //Ordena la lista mediante la funcion de mergeSort
-                initialTime = System.currentTimeMillis();
-                SortingAlgorithms.mergeSortName(vessels);
+
+                initialTime = System.currentTimeMillis();                                               //Time function
+                SortingAlgorithms.mergeSortName(vessels);                                               //Sort the list with mergeSort
                 executionTime = System.currentTimeMillis() - initialTime;
 
-                System.out.println("\nThe vessels have been sorted by name using MergeSort");
+                System.out.println("\nThe vessels have been sorted by name using MergeSort");           //Print the list sorte
                 printSortedObjectList(vessels, true);
-                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");
+                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");     //Print the time of execution
                 break;
 
             case 3:
@@ -64,7 +64,7 @@ public class Menu {
         }
     }
 
-
+    //Ask For a number of option, and check if there is a problem or no.
     static int askForInteger(String message, int min, int max) {
 
         Scanner s = new Scanner(System.in);

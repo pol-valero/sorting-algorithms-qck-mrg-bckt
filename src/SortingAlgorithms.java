@@ -76,51 +76,51 @@ public class SortingAlgorithms {
 
     }
 
-    //Funcion pantalla
+    //Function screen
     public static void mergeSortName(LinkedList<Vessel> vessels) {
         mergeSortName(vessels, 0, vessels.size() - 1);
     }
 
 
-        /*Esta funcion divide la linked list en varias funciones, donde tambien llama a si mismo para seguir dividiendose hasta quedar 1 */
+        /*This function split de linkedList until we have a linked-list with only one item */
 
     public static void mergeSortName(LinkedList<Vessel> vessels, int left, int right) {
         if (left < right) {
-            //Encuentra el punto medio del vector.
+            //Find the middle of the linked-list.
             int middle = (left + right) / 2;
 
-            //Divide la primera y segunda mitad (llamada recursiva).
+            //Call the function mergeSortName to split the two half
             mergeSortName(vessels, left, middle);
             mergeSortName(vessels, middle + 1, right);
 
-            //Une las mitades.
+            //mergesort the linked-list
             merge(vessels, left, middle, right);
         }
     }
 
-    /* Esta funcion compara si la letra es mayor que el de la derecha, si es asi hace un swap dels dos objectes */
+    /* this function compare two letters and if is smaller they swap the element.*/
 
     private static void merge(LinkedList<Vessel> vessels, int left, int middle, int right) {
 
         int i, j, k;
         LinkedList<Vessel> B = null;
 
-        for (i = left; i <= right; i++)      //copia ambas mitades en el array auxiliar
-            B = (LinkedList<Vessel>) vessels.clone();
+
+        B = (LinkedList<Vessel>) vessels.clone(); //clone the linked-list to the auxiliary one
 
         i = left;
         j = middle + 1;
         k = left;
 
 
-        while (i <= middle && j <= right) //copia el siguiente elemento más grande
+        while (i <= middle && j <= right) //Swap the elements
             if (B.get(i).name.charAt(0) <= B.get(j).name.charAt(0))
                 vessels.set(k++, B.get(i++));
             else
                 vessels.set(k++, B.get(j++));
 
-        while (i <= middle)                 //copia los elementos que quedan de la
-            vessels.set(k++, B.get(i++));          //primera mitad (si los hay)
+        while (i <= middle)                 //Copy the elements of the first half (if there is)
+            vessels.set(k++, B.get(i++));
     }
 
 
