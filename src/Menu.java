@@ -139,7 +139,7 @@ public class Menu {
 
     private static void printObjectFields(LinkedList<Vessel> vessels, int i) {
         System.out.print("\n\n");
-        for (Field field : vessels.get(i).getClass().getDeclaredFields()) {
+        for (Field field : vessels.get(i).getClass().getFields()) {
             String name = field.getName();
             Object value;
             try {
