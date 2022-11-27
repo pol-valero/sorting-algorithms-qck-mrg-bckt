@@ -9,19 +9,30 @@ public class Menu {
 
     public static void runSelectedOption(int option, LinkedList<Vessel> vessels) {
 
+        long initialTime;
+        long executionTime;
+
         switch (option) {
 
             case 1:
+                initialTime = System.currentTimeMillis();
                 SortingAlgorithms.quickSortAge(vessels);
+                executionTime = System.currentTimeMillis() - initialTime;
+
                 System.out.println("\nThe vessels have been sorted by age using QuickSort");
                 printSortedObjectList(vessels, false);
+                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");
                 break;
 
             case 2:
                 //Ordena la lista mediante la funcion de mergeSort
+                initialTime = System.currentTimeMillis();
                 SortingAlgorithms.mergeSortName(vessels);
+                executionTime = System.currentTimeMillis() - initialTime;
+
                 System.out.println("\nThe vessels have been sorted by name using MergeSort");
                 printSortedObjectList(vessels, true);
+                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");
                 break;
 
             case 3:
