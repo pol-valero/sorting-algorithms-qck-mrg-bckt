@@ -36,7 +36,13 @@ public class Menu {
                 break;
 
             case 3:
+                initialTime = System.currentTimeMillis();
                 SortingAlgorithms.bucketSortCapabilities(vessels);
+                executionTime = System.currentTimeMillis() - initialTime;
+
+                System.out.println("\nThe vessels have been sorted by name using BucketSort");
+                printSortedObjectList(vessels,false);
+                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");
                 break;
 
             case 4:
@@ -140,10 +146,12 @@ public class Menu {
         if (ascendingOrder) {
             for (i = 0; i < vessels.size(); i++) {
                 printObjectFields(vessels, i);
+                System.out.println("\nCapabilities rating: " + vessels.get(i).getCapabilitiesRating());
             }
         } else {
             for (i = vessels.size() - 1; i >= 0; i--) {
                 printObjectFields(vessels, i);
+                System.out.println("\nCapabilities rating: " + vessels.get(i).getCapabilitiesRating());
             }
         }
     }

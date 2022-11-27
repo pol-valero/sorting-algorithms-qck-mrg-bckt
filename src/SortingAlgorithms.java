@@ -8,43 +8,57 @@ public class SortingAlgorithms {
 
 
     public static void quickSortAge(LinkedList<Vessel> vessels) {
-        quickSortAge(vessels, 0, vessels.size() - 1);
+        quickSort(vessels, 0, vessels.size() - 1, true);
     }
 
-    private static void quickSortAge(LinkedList<Vessel> vessels, int i, int j) {
+    private static void quickSort(LinkedList<Vessel> vessels, int i, int j, boolean sortingAge) {
         int p;
         if (i >= j) {
             return;
         } else {
-            p = partition(vessels, i, j);
-            quickSortAge(vessels, i, p);
-            quickSortAge(vessels, p + 1, j);
+            p = partition(vessels, i, j, sortingAge);
+            quickSort(vessels, i, p, sortingAge);
+            quickSort(vessels, p + 1, j, sortingAge);
 
         }
     }
 
-    private static int partition(LinkedList<Vessel> vessels, int i, int j) {
+    private static int partition(LinkedList<Vessel> vessels, int i, int j, boolean sortingAge) {
 
         Vessel auxVessel;
 
         int l, r;
         int middle;
-        int pivot;
+        int pivotInt = 0;
+        double pivotDouble = 0;
 
         l = i;
         r = j;
 
         middle = (i + j) / 2;
 
-        pivot = vessels.get(middle).id;
+        if (sortingAge) {
+            pivotInt = vessels.get(middle).id;
+        } else {
+            pivotDouble = vessels.get(middle).getCapabilitiesRating();
+        }
 
         while (true) {
 
-            while(vessels.get(l).id < pivot) {
-                l++;
-            }
-            while(vessels.get(r).id > pivot) {
-                r--;
+            if (sortingAge) {
+                while (vessels.get(l).id < pivotInt) {
+                    l++;
+                }
+                while (vessels.get(r).id > pivotInt) {
+                    r--;
+                }
+            } else {
+                while (vessels.get(l).getCapabilitiesRating() < pivotDouble) {
+                    l++;
+                }
+                while (vessels.get(r).getCapabilitiesRating() > pivotDouble) {
+                    r--;
+                }
             }
 
             if (l >= r) {
@@ -111,14 +125,42 @@ public class SortingAlgorithms {
 
 
         public static void bucketSortCapabilities (LinkedList <Vessel> vessels) {
-            //Per ordenar vaixells per prestacions, primer hem de ponderar els seus
-            //atributs (pes, eslora, capacitat, velocitat max) amb un pes diferent
-            //cadascun. Un cop això estigui fet, per cada vaixell tindrem un resultat
-            //de la suma ponderada de les seves prestacions. Aquest resultat es el que
-            //utilitzarem per a ordenar els vaixells
+
+            bucketSortCapabilities(vessels, vessels.size());
+        }
+
+        public static void bucketSortCapabilities (LinkedList <Vessel> vessels, int bucketsNumber) {
+            int i;
+            int j;
+
+            int index;
+
+
+            LinkedList<LinkedList<Vessel>> bucket = new LinkedList<>();
+
+            for (i = 0; i < vessels.size(); i++) {
+                bucket.add(new LinkedList<>());
+            }
+
+            for (i = 0; i < vessels.size(); i++) {
+                index = (int) vessels.get(i).getCapabilitiesRating() * bucketsNumber;
+                bucket.get(index).add(vessels.get(i));
+            }
+
+            for (i = 0; i < bucketsNumber; i++) {
+                quickSort(bucket.get(i), 0, bucket.get(i).size() - 1, false);
+                bucket.set(i, bucket.get(i));
+            }
+            index = 0;
+            for (i = 0; i < bucketsNumber; i++) {
+                for (j = 0; j < bucket.get(i).size(); j++) {
+                    vessels.set(index, bucket.get(i).get(j));
+                    index++;
+                }
+            }
 
         }
-}
+    }
 
 
 

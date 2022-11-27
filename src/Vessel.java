@@ -40,7 +40,9 @@ public class Vessel {
 
         double normWeight = normalize(weight, 300, 0);
 
-        return  (normLength * LENGTH_FACTOR) + (normCapacity * CAPACITY_FACTOR) + (normSpeed * SPEED_FACTOR) + (normWeight * WEIGHT_FACTOR);
+        double capabilitiesRating = (normLength * LENGTH_FACTOR) + (normCapacity * CAPACITY_FACTOR) + (normSpeed * SPEED_FACTOR) + (normWeight * WEIGHT_FACTOR);
+
+        return  capabilitiesRating;
     }
 
     private double normalize(double value, double minValue, double maxValue) {
