@@ -10,39 +10,39 @@ public class Menu {
     public static void runSelectedOption(int option, LinkedList<Vessel> vessels) {
 
         long initialTime;
-        long executionTime;
+        long executionTime;         //Here we will store the execution time of an algorithm
 
         switch (option) {
 
             case 1:
                 initialTime = System.currentTimeMillis();
-                SortingAlgorithms.quickSortAge(vessels);
+                SortingAlgorithms.quickSortAge(vessels);                                                //We sort the vessels list by age with quickSort
                 executionTime = System.currentTimeMillis() - initialTime;
 
                 System.out.println("\nThe vessels have been sorted by age using QuickSort");
                 printSortedObjectList(vessels, false);
-                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");
+                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");     //Print the execution time of the algorithm
                 break;
 
             case 2:
 
-                initialTime = System.currentTimeMillis();                                               //Time function
-                SortingAlgorithms.mergeSortName(vessels);                                               //Sort the list with mergeSort
+                initialTime = System.currentTimeMillis();
+                SortingAlgorithms.mergeSortName(vessels);                                               //We sort the vessels list by name with mergeSort
                 executionTime = System.currentTimeMillis() - initialTime;
 
-                System.out.println("\nThe vessels have been sorted by name using MergeSort");           //Print the list sorte
+                System.out.println("\nThe vessels have been sorted by name using MergeSort");
                 printSortedObjectList(vessels, true);
-                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");     //Print the time of execution
+                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");     //Print the execution time of the algorithm
                 break;
 
             case 3:
                 initialTime = System.currentTimeMillis();
-                SortingAlgorithms.bucketSortCapabilities(vessels);
+                SortingAlgorithms.bucketSortCapabilities(vessels);                                      //We sort the vessels list by capabilities with bucketSort
                 executionTime = System.currentTimeMillis() - initialTime;
 
                 System.out.println("\nThe vessels have been sorted by name using BucketSort");
                 printSortedObjectList(vessels,false);
-                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");
+                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");      //Print the execution time of the algorithm
                 break;
 
             case 4:
@@ -64,7 +64,7 @@ public class Menu {
         }
     }
 
-    //Ask For a number of option, and check if there is a problem or no.
+    //Asks for an option number, and checks if a wrong input is entered
     static int askForInteger(String message, int min, int max) {
 
         Scanner s = new Scanner(System.in);
@@ -88,6 +88,7 @@ public class Menu {
         return option;
     }
 
+    //Asks the user which datasets he wants to load and loads the chosen dataset
     public static LinkedList<Vessel> DatasetSelection() {
 
         LinkedList<Vessel> vessels;
@@ -140,6 +141,7 @@ public class Menu {
                         "   4. Exit\n\n--------------------------------------------------------------------\n");
     }
 
+    //Given a vessel list, prints all the information about each vessel
     private static void printSortedObjectList(LinkedList<Vessel> vessels, Boolean ascendingOrder) {
         int i;
 

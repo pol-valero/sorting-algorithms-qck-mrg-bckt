@@ -4,11 +4,9 @@ import java.util.LinkedList;
 
 public class SortingAlgorithms {
 
-
-
-
+    //This function is used so that we only have to pass a list as a function argument to sort the list
     public static void quickSortAge(LinkedList<Vessel> vessels) {
-        quickSort(vessels, 0, vessels.size() - 1, true);
+        quickSort(vessels, 0, vessels.size() - 1, true);   //We pass "true" as a 3rd argument because we want to sort by age
     }
 
     private static void quickSort(LinkedList<Vessel> vessels, int i, int j, boolean sortingAge) {
@@ -23,6 +21,7 @@ public class SortingAlgorithms {
         }
     }
 
+    //Each time this function is called, the array is divided in two parts (with the help of the pointers l, r)
     private static int partition(LinkedList<Vessel> vessels, int i, int j, boolean sortingAge) {
 
         Vessel auxVessel;
@@ -45,6 +44,7 @@ public class SortingAlgorithms {
 
         while (true) {
 
+            //The following "if" is used so that the quickSort algorithm can sort by age or by capabilities
             if (sortingAge) {
                 while (vessels.get(l).id < pivotInt) {
                     l++;
@@ -65,6 +65,7 @@ public class SortingAlgorithms {
                 return r;
             }
 
+            //We swap the values
             auxVessel = vessels.get(l);
             vessels.set(l, vessels.get(r));
             vessels.set(r, auxVessel);
@@ -76,20 +77,18 @@ public class SortingAlgorithms {
 
     }
 
-    //Function screen
+    //This function is used so that we only have to pass a list as a function argument to sort the list
     public static void mergeSortName(LinkedList<Vessel> vessels) {
         mergeSortName(vessels, 0, vessels.size() - 1);
     }
 
-
-        /*This function split de linkedList until we have a linked-list with only one item */
-
+    //This function splits the linkedList until we have a linked-list with only one item
     public static void mergeSortName(LinkedList<Vessel> vessels, int left, int right) {
         if (left < right) {
             //Find the middle of the linked-list.
             int middle = (left + right) / 2;
 
-            //Call the function mergeSortName to split the two half
+            //Call the function mergeSortName to split the two halves
             mergeSortName(vessels, left, middle);
             mergeSortName(vessels, middle + 1, right);
 
@@ -98,8 +97,7 @@ public class SortingAlgorithms {
         }
     }
 
-    /* this function compare two letters and if is smaller they swap the element.*/
-
+    //This function compare two letters and if is smaller they swap the element.
     private static void merge(LinkedList<Vessel> vessels, int left, int middle, int right) {
 
         int i, j, k;
@@ -121,46 +119,50 @@ public class SortingAlgorithms {
 
         while (i <= middle)                 //Copy the elements of the first half (if there is)
             vessels.set(k++, B.get(i++));
+
     }
 
-
-        public static void bucketSortCapabilities (LinkedList <Vessel> vessels) {
-
-            bucketSortCapabilities(vessels, vessels.size());
-        }
-
-        public static void bucketSortCapabilities (LinkedList <Vessel> vessels, int bucketsNumber) {
-            int i;
-            int j;
-
-            int index;
-
-
-            LinkedList<LinkedList<Vessel>> bucket = new LinkedList<>();
-
-            for (i = 0; i < vessels.size(); i++) {
-                bucket.add(new LinkedList<>());
-            }
-
-            for (i = 0; i < vessels.size(); i++) {
-                index = (int) vessels.get(i).getCapabilitiesRating() * bucketsNumber;
-                bucket.get(index).add(vessels.get(i));
-            }
-
-            for (i = 0; i < bucketsNumber; i++) {
-                quickSort(bucket.get(i), 0, bucket.get(i).size() - 1, false);
-                bucket.set(i, bucket.get(i));
-            }
-            index = 0;
-            for (i = 0; i < bucketsNumber; i++) {
-                for (j = 0; j < bucket.get(i).size(); j++) {
-                    vessels.set(index, bucket.get(i).get(j));
-                    index++;
-                }
-            }
-
-        }
+    //This function is used so that we only have to pass a list as a function argument to sort the list
+    public static void bucketSortCapabilities (LinkedList <Vessel> vessels) {
+        bucketSortCapabilities(vessels, 6);                              //If we change the number of buckets we may see different results
     }
+
+    public static void bucketSortCapabilities (LinkedList <Vessel> vessels, int bucketsNumber) {
+        int i;
+        int j;
+
+        int index;
+
+        //We create and initialize buckets
+        LinkedList<LinkedList<Vessel>> bucket = new LinkedList<>();
+        for (i = 0; i < vessels.size(); i++) {
+            bucket.add(new LinkedList<>());
+        }
+
+        //We put the different elements of the vessel list in different buckets
+        for (i = 0; i < vessels.size(); i++) {
+            index = (int) vessels.get(i).getCapabilitiesRating() * bucketsNumber;
+            bucket.get(index).add(vessels.get(i));
+        }
+
+        //We sort each individual bucket
+        for (i = 0; i < bucketsNumber; i++) {
+            quickSort(bucket.get(i), 0, bucket.get(i).size() - 1, false);
+            bucket.set(i, bucket.get(i));
+        }
+
+        index = 0;
+
+        //We put all the buckets back together into the vessels list, creating a sorted arraylist
+        for (i = 0; i < bucketsNumber; i++) {
+            for (j = 0; j < bucket.get(i).size(); j++) {
+                vessels.set(index, bucket.get(i).get(j));
+                index++;
+            }
+        }
+
+    }
+}
 
 
 
