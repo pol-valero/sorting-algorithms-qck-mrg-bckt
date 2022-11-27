@@ -15,34 +15,34 @@ public class Menu {
         switch (option) {
 
             case 1:
-                initialTime = System.currentTimeMillis();
+                initialTime = System.nanoTime();
                 SortingAlgorithms.quickSortAge(vessels);                                                //We sort the vessels list by age with quickSort
-                executionTime = System.currentTimeMillis() - initialTime;
+                executionTime = System.nanoTime() - initialTime;
 
                 System.out.println("\nThe vessels have been sorted by age using QuickSort");
                 printSortedObjectList(vessels, false);
-                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");     //Print the execution time of the algorithm
+                System.out.println("\nSorting algorithm execution time: " + (double) executionTime/1000000 + " ms");     //Print the execution time of the algorithm
                 break;
 
             case 2:
 
-                initialTime = System.currentTimeMillis();
+                initialTime = System.nanoTime();
                 SortingAlgorithms.mergeSortName(vessels);                                               //We sort the vessels list by name with mergeSort
-                executionTime = System.currentTimeMillis() - initialTime;
+                executionTime = System.nanoTime() - initialTime;
 
                 System.out.println("\nThe vessels have been sorted by name using MergeSort");
                 printSortedObjectList(vessels, true);
-                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");     //Print the execution time of the algorithm
+                System.out.println("\nSorting algorithm execution time: " + (double) executionTime/1000000 + " ms");     //Print the execution time of the algorithm
                 break;
 
             case 3:
-                initialTime = System.currentTimeMillis();
+                initialTime = System.nanoTime();
                 SortingAlgorithms.bucketSortCapabilities(vessels);                                      //We sort the vessels list by capabilities with bucketSort
-                executionTime = System.currentTimeMillis() - initialTime;
+                executionTime = System.nanoTime() - initialTime;
 
                 System.out.println("\nThe vessels have been sorted by name using BucketSort");
                 printSortedObjectList(vessels,false);
-                System.out.println("\nSorting algorithm execution time: " + executionTime + " ms");      //Print the execution time of the algorithm
+                System.out.println("\nSorting algorithm execution time: " + (double) executionTime/1000000 + " ms");     //Print the execution time of the algorithm
                 break;
 
             case 4:
