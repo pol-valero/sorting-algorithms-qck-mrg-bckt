@@ -13,19 +13,14 @@ public class Menu {
 
             case 1:
                 SortingAlgorithms.quickSortAge(vessels);
-                System.out.println("\nThe vessels have been sorted by age using QuickSort\n");
+                System.out.println("\nThe vessels have been sorted by age using QuickSort");
                 printSortedObjectList(vessels, false);
                 break;
 
             case 2:
-                //Variable n para el tamaño del linkedList
-                int n = vessels.size();
-
-
                 //Ordena la lista mediante la funcion de mergeSort
-                SortingAlgorithms.mergeSort_sort(vessels, 0, n - 1);
-
-                System.out.println("\nThe vessels have been sorted by name using MergeSort\n");
+                SortingAlgorithms.mergeSortName(vessels);
+                System.out.println("\nThe vessels have been sorted by name using MergeSort");
                 printSortedObjectList(vessels, true);
                 break;
 

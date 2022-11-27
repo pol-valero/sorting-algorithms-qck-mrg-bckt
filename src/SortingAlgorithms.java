@@ -1,6 +1,5 @@
 package src;
 
-import java.lang.reflect.Field;
 import java.util.LinkedList;
 
 public class SortingAlgorithms {
@@ -63,26 +62,31 @@ public class SortingAlgorithms {
 
     }
 
+    //Funcion pantalla
+    public static void mergeSortName(LinkedList<Vessel> vessels) {
+        mergeSortName(vessels, 0, vessels.size() - 1);
+    }
+
 
         /*Esta funcion divide la linked list en varias funciones, donde tambien llama a si mismo para seguir dividiendose hasta quedar 1 */
 
-    public static void mergeSort_sort(LinkedList<Vessel> vessels, int left, int right) {
+    public static void mergeSortName(LinkedList<Vessel> vessels, int left, int right) {
         if (left < right) {
             //Encuentra el punto medio del vector.
             int middle = (left + right) / 2;
 
             //Divide la primera y segunda mitad (llamada recursiva).
-            mergeSort_sort(vessels, left, middle);
-            mergeSort_sort(vessels, middle + 1, right);
+            mergeSortName(vessels, left, middle);
+            mergeSortName(vessels, middle + 1, right);
 
             //Une las mitades.
-            mergeSort_merge(vessels, left, middle, right);
+            merge(vessels, left, middle, right);
         }
     }
 
     /* Esta funcion compara si la letra es mayor que el de la derecha, si es asi hace un swap dels dos objectes */
 
-    private static void mergeSort_merge(LinkedList<Vessel> vessels, int left, int middle, int right) {
+    private static void merge(LinkedList<Vessel> vessels, int left, int middle, int right) {
 
         int i, j, k;
         LinkedList<Vessel> B = null;
@@ -96,7 +100,7 @@ public class SortingAlgorithms {
 
 
         while (i <= middle && j <= right) //copia el siguiente elemento más grande
-            if (Character.compare(B.get(i).name.charAt(0), B.get(j).name.charAt(0)) <= 0)
+            if (B.get(i).name.charAt(0) <= B.get(j).name.charAt(0))
                 vessels.set(k++, B.get(i++));
             else
                 vessels.set(k++, B.get(j++));
