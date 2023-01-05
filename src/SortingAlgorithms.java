@@ -112,7 +112,8 @@ public class SortingAlgorithms {
 
 
         while (i <= middle && j <= right) //Swap the elements
-            if (B.get(i).name.charAt(0) <= B.get(j).name.charAt(0))
+
+            if (B.get(i).name.compareToIgnoreCase(B.get(j).name) < 0)
                 vessels.set(k++, B.get(i++));
             else
                 vessels.set(k++, B.get(j++));
