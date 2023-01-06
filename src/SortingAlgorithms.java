@@ -156,7 +156,7 @@ public class SortingAlgorithms {
 
         //We put the different elements of the vessel list in different buckets
         for (i = 0; i < vessels.size(); i++) {
-            index = (int) (vessels.get(i).getCapabilitiesRating() / (maxPriorityValue / (bucketsNumber - 1)));
+            index = (int) ((vessels.get(i).getCapabilitiesRating() / maxPriorityValue) * (bucketsNumber - 1));
             //System.out.println ("INDEX: " + index);
             buckets.get(index).add(vessels.get(i));
         }
