@@ -138,7 +138,7 @@ public class SortingAlgorithms {
 
     //This function is used so that we only have to pass a list as a function argument to sort the list
     public static void bucketSortCapabilities (LinkedList <Vessel> vessels) {
-        bucketSortCapabilities(vessels, 4);                              //If we change the number of buckets we may see different results
+        bucketSortCapabilities(vessels, vessels.size());                              //If we change the number of buckets we may see different results
     }
 
     public static void bucketSortCapabilities (LinkedList <Vessel> vessels, int bucketsNumber) {
@@ -166,6 +166,49 @@ public class SortingAlgorithms {
         //We sort each individual bucket
         for (i = 0; i < bucketsNumber; i++) {
             quickSort(buckets.get(i), 0, buckets.get(i).size() - 1, false);
+            buckets.set(i, buckets.get(i));
+        }
+
+
+        //We put all the buckets back together into the vessels list, creating a sorted arraylist
+        for (i = 0; i < bucketsNumber; i++) {
+            for (j = 0; j < buckets.get(i).size(); j++) {
+                vessels.set(index, buckets.get(i).get(j));
+                index++;
+            }
+        }
+
+    }
+
+    public static void bucketSortCapabilitiesMerge (LinkedList <Vessel> vessels) {
+        bucketSortCapabilities(vessels, vessels.size());                              //If we change the number of buckets we may see different results
+    }
+
+    public static void bucketSortCapabilitiesMerge (LinkedList <Vessel> vessels, int bucketsNumber) {
+        int i;
+        int j;
+
+        int index;
+        double maxPriorityValue = maxPriorityValue(vessels);
+
+        //We create and initialize buckets
+        LinkedList<LinkedList<Vessel>> buckets = new LinkedList<>();
+        for (i = 0; i <= bucketsNumber; i++) {
+            buckets.add(new LinkedList<>());
+        }
+
+        //We put the different elements of the vessel list in different buckets
+        for (i = 0; i < vessels.size(); i++) {
+            index = (int) ((vessels.get(i).getCapabilitiesRating() / maxPriorityValue) * (bucketsNumber - 1));
+            //System.out.println ("INDEX: " + index);
+            buckets.get(index).add(vessels.get(i));
+        }
+
+        index = 0;
+
+        //We sort each individual bucket
+        for (i = 0; i < bucketsNumber; i++) {
+            mergeSortName(buckets.get(i));
             buckets.set(i, buckets.get(i));
         }
 
