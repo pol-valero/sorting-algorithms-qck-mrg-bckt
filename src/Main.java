@@ -13,10 +13,10 @@ public class Main {
         do {
 
             Menu.show();
-            option = Menu.askForInteger("Please choose an option: ", 1, 5);
+            option = Menu.askForInteger("Please choose an option: ", 1, 4);
             Menu.runSelectedOption(option, vessels);
 
-        } while (option != 5);
+        } while (option != 4);
 
     }
 

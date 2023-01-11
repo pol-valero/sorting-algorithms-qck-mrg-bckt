@@ -46,16 +46,6 @@ public class Menu {
                 break;
 
             case 4:
-                initialTime = System.nanoTime();
-                SortingAlgorithms.bucketSortCapabilitiesMerge(vessels);                                      //We sort the vessels list by capabilities with bucketSort
-                executionTime = System.nanoTime() - initialTime;
-
-                System.out.println("\nThe vessels have been sorted by name using BucketSort");
-                printSortedObjectList(vessels,false);
-                System.out.println("\nSorting algorithm execution time: " + (double) executionTime/1000000 + " ms");     //Print the execution time of the algorithm
-                break;
-
-            case 5:
                 System.out.print("\n───────────────────────────────────────────────────────────\n" +
                         "─██████████████───████████──████████─██████████████─██████─\n" +
                         "─██░░░░░░░░░░██───██░░░░██──██░░░░██─██░░░░░░░░░░██─██░░██─\n" +
@@ -147,9 +137,8 @@ public class Menu {
                         "\nWhat do you want to do?\n\n" +
                         "   1. Sort vessels by age\n" +
                         "   2. Sort vessels by name\n" +
-                        "   3. Sort vessels by capabilities(QuickSort)\n" +
-                        "   4. Sort vessels by capabilities(MergeSort)\n" +
-                        "   5. Exit\n\n--------------------------------------------------------------------\n");
+                        "   3. Sort vessels by capabilities\n" +
+                        "   4. Exit\n\n--------------------------------------------------------------------\n");
     }
 
     //Given a vessel list, prints all the information about each vessel
