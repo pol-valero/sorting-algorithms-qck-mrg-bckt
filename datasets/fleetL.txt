@@ -1,0 +1,661 @@
+660
+0;Orbing Bonito Flakes;Optimist;30.92;0.5;1;44828;new;18;Andustar
+45398919;Radish Lorraine Baines;Optimist;34.31;1.3;1;56791;broken;6;Richesse
+660;Mint Red The Bum;HobieDragoon;114.06;3.99;3;73224;new;14;Bird World
+96;Slivered Almonds Red The Bum;Topaz;30.93;4.07;2;79640;new;12;Interdimensional Customs
+284577;Vision Dark Chocolate;Patí Català;96.45;3.73;3;2779;restored;39;Earth
+8610;Mind Control Dried Chinese Broccoli;Topaz;37.59;5.28;2;52261;restored;10;Snorlab
+2019;Tapioca Mr. Strickland;Patí Català;103.59;4.12;3;63725;new;16;Tol Brandir
+59;Lantern Power Ring Oregano;Laser;153.17;5.11;2;32482;new;7;Gladden Fields
+3380;Silverbeet Deanna Troi;Taz;32.4;0.5;1;87104;new;9;Selusa Secundus
+270360180;Avocado Spread Pavel Chekov;Laser;155.39;4.62;2;3323;new;5;Arrakis
+14312278;The Force Tempeh;HobieDragoon;100.6;3.4;3;45683;new;35;Parblesnops
+3;Purple Carrot Lou;Ludic;193.12;4.66;8;9594;broken;17;East Beleriand
+67;Apples Jadzia Dax;Laser;270.06;4.25;2;37807;new;9;Cronenberg World
+29143318;Watermelon Phlox;Optimist;35.06;1.24;1;450;new;10;Planet Squanch
+730683040;Kiwi Berries Biff Tannen;Taz;33.92;1.14;1;47003;restored;23;Dimension C-132
+8799;Tempeh Spock;Taz;31.34;1.11;1;47359;unavailable;16;Dimension C-137
+679107;Ability Shift Prunes;Laser;246.51;4.92;2;43678;new;9;Bag End
+2027;Elasticity Pear;HobieDragoon;88.87;3.08;3;8926;unavailable;38;Pawn Shop Planet
+8;Edamame Linda McFly;Topaz;36.86;4.45;2;84184;new;17;Selusa Secundus
+8644135;Milk Chocolate Natasha Yar;Patí Català;95.1;3.82;3;89718;new;33;The Rivers and Beacon-Hills of Gondor
+6982322;Stevia Marty McFly;Patí Català;115.67;3.32;3;42200;new;38;Earth
+740348117;Peas Linda McFly;HobieDragoon;112.21;3.78;3;14227;new;19;Snorlab
+985772385;Animal Control Peaches;Patí Català;102.8;3.46;3;65241;new;17;Dimension C-132
+53446215;Empathy Squid;HobieDragoon;83.51;3.08;3;33029;restored;27;Cronenberg World
+8132830;Banish Lobster;Laser;256.91;4.34;2;47588;new;18;Dimension C-137
+73910;Seismic Power Camembert;Ludic;245.62;5.27;8;2874;restored;13;Pluto
+7274;Sesame Oil Harry Kim;Laser;245.86;5.5;2;69888;restored;7;Earth
+2484045;Melting Kidney Beans;Patí Català;99.98;3.97;3;41485;restored;37;Dimension C-132
+347274;Buttermilk Milton Baines;Laser;168.32;5.5;2;35432;new;16;Dimension C-132
+242257;Vision Spinach;Windsurf;10.6;0.83;1;87908;broken;25;Ecaz
+1811052;Stamina Lamb;Topaz;37.86;4.88;2;49104;restored;9;Arrakis
+329502387;Camomile James Tiberius Kirk;Optimist;37.1;0.5;1;35629;new;11;Cronenberg World
+7;Weapon-based Powers Grape Seed Oil;Patí Català;107.36;3.63;3;89920;restored;14;Dune
+88;Peppercorns Harry Kim;Optimist;36.48;0.64;1;46099;new;21;Geidi Prime
+254634034;Sonic Scream Achacha;Patí Català;114.64;3.57;3;26789;restored;29;Sarn Ford
+9329;Levitation Lychees;Windsurf;10.93;0.5;1;65266;new;17;Dimension C-137
+8895436;Tabasco Sally Baines;Topaz;31.1;4.12;2;5892;restored;17;Isle of Balar
+8577;Baking Soda Jean-Luc Picard;Windsurf;15.0;0.9;1;64587;restored;30;Geidi Prime
+99;Blueberries Harry Kim;Ludic;254.51;5.68;8;72304;unavailable;7;Purge Planet
+7533344;Thirstokinesis Wattleseed;Topaz;34.21;5.13;2;57263;new;13;Pluto
+16;Snowpea sprouts Geordi La Forge;Patí Català;100.19;4.3;3;60160;new;37;Alphabetrium
+12;Carrot Harry Kim;Taz;35.89;0.56;1;43771;new;8;Utumno
+5157;Telepathy Resistance Jelly;Topaz;38.42;5.54;2;83239;unavailable;20;Parblesnops
+1790397;Pecan Nut Sally Baines;HobieDragoon;99.9;3.89;3;58691;new;37;Interdimensional Customs
+8364;Substance Secretion Flat Mushrooms;Ludic;150.41;5.47;8;51762;new;7;Greenway
+8612204;Qwardian Power Ring Tarragon;Windsurf;12.21;1.08;1;72965;new;38;Pluto
+43213905;Durability Oats;Patí Català;89.59;4.05;3;28551;new;24;Dwarf Terrace-9
+1850617;Longevity Sun-Dried Tomatoes;Laser;167.25;4.16;2;28116;broken;20;Helm's Deep
+18449;Hijiki T'Pol;Optimist;36.74;0.99;1;50408;unavailable;18;Cronenberg World
+143926;Balsamic Vinegar Red The Bum;HobieDragoon;91.65;3.76;3;34780;unavailable;30;Bird World
+18;Enhanced Smell Broccolini;Topaz;34.69;4.57;2;17358;new;20;Screaming Sun Earth
+47607314;Electrokinesis Corn Tortilla;Ludic;219.36;4.81;8;46700;restored;5;Kaitain
+5604;Achacha Linda McFly;Topaz;37.7;4.59;2;5895;new;9;Pluto
+475583;Currants Miles O'Brien;HobieDragoon;87.56;3.45;3;53664;new;36;Dwarf Terrace-9
+4584062;White rice Worf;Ludic;260.94;4.56;8;77864;new;8;Earth
+7650593;Cornichons Seven of Nine;Patí Català;106.32;3.39;3;36024;unavailable;18;Gazorpazorp
+50620312;Red Wine Leonard McCoy;Ludic;152.8;4.41;8;51061;restored;18;Earth
+64;Candle Nut Linda McFly;Topaz;38.44;4.03;2;63570;restored;9;Meduseld
+485032;Cocoa Powder Deanna Troi;Topaz;38.23;4.1;2;64235;new;7;Falls of Rauros
+4;Soy Beans Worf;Patí Català;98.33;3.63;3;9483;new;23;Máhanaxar
+73;Seismic Power Watermelon;Patí Català;100.42;4.25;3;40971;new;21;Gazorpazorp
+6940171;Anti-Gravity Plums;Optimist;36.29;1.16;1;88270;new;14;Bridge of Khazad-dûm
+11;Szechuan Pepperberry Worf;HobieDragoon;108.9;3.65;3;88847;restored;30;Screaming Sun Earth
+87330915;Goji Berry Jake Sisko;Laser;208.32;5.52;2;36252;broken;8;Arbolez Mentorosos
+304410;Atmokinesis Cake;Taz;34.46;1.14;1;18811;new;8;Dimension C-132
+99678348;Corn Syrup Geordi La Forge;Topaz;34.45;5.18;2;4791;new;10;Hideout Planet
+1694;Water Joey Baines;HobieDragoon;89.75;4.02;3;69863;broken;27;Dwarf Terrace-9
+1;Web Creation Longan;Ludic;199.35;5.3;8;84485;broken;8;Dwarf Terrace-9
+767;Reflexes Agave Syrup;Windsurf;14.61;0.84;1;61466;new;18;Cronenberg World
+522974499;Baking Soda Red The Bum;Ludic;257.19;4.03;8;76837;restored;19;Cirith Ungol
+863;Fenugreek Red The Bum;Windsurf;8.06;0.62;1;45566;restored;21;Dimension C-132
+3608;Apples Stella Baines;Taz;38.69;0.52;1;27107;new;18;Utumno
+58;Empathy Lime Leaves;HobieDragoon;87.19;4.37;3;77243;new;14;Pluto
+201183819;Electrical Transport Cheddar;Ludic;167.24;5.09;8;45703;restored;9;Planet Squanch
+520;Power Nullifier Sesame Seeds;Ludic;232.52;5.73;8;34762;restored;14;Geidi Prime
+5335;Vision Borlotti Beans;Ludic;194.55;5.06;8;3601;unavailable;13;Caladan
+4684;Timeframe Control Jarrahdale Pumpkin;Laser;273.31;5.15;2;60064;new;10;Cronenberg World
+4996;Substance Secretion Tapioca Flour;Windsurf;9.72;1.37;1;84063;broken;42;Selusa Secundus
+3685;Kokam Sally Baines;Windsurf;12.98;0.53;1;58472;broken;42;Parblesnops
+25752610;Goji Berry Lorraine Baines;HobieDragoon;106.96;3.0;3;76942;restored;26;Henneth Annûn
+62355867;Sesame Seeds Spock;Windsurf;16.01;0.5;1;58787;broken;34;Alphabetrium
+332;Cauliflower Dr. Emmett Brown;Optimist;30.98;0.83;1;16718;new;15;Bird World
+64825356;Spelt Bread Jake Sisko;Optimist;31.84;0.5;1;87614;restored;16;Andustar
+96170674;Corella Pear Skinhead;Optimist;31.27;0.88;1;20413;new;18;Vaiya
+784399386;Corn Oil Spock;Topaz;38.76;5.49;2;53534;restored;6;Warning beacons of Gondor
+5565301;Reflexes Soy Milk;Taz;37.24;1.02;1;8509;new;20;Bird World
+2088162;Enhanced Hearing Hokkien Noodles;Taz;32.16;1.32;1;56769;restored;22;Ix
+5;Separation Wheat;Taz;31.17;1.08;1;39510;unavailable;22;Geidi Prime
+964;Kohlrabi Kes;Ludic;160.34;4.99;8;87989;new;19;Kaitain
+5976510;Macadamia Nut Jonathan Archer;Laser;153.38;4.81;2;48136;new;5;Pluto
+42689;Watercress Natasha Yar;Taz;32.23;0.5;1;83776;restored;13;Gazorpazorp
+9742;Psychokinesis Green Pepper;Taz;35.33;0.6;1;48199;new;7;Geidi Prime
+61;Spinach Mr. Strickland;Windsurf;8.36;0.5;1;42134;new;34;On a Cob Planet
+6192550;Aubergine Skinhead;Topaz;36.65;4.29;2;62822;broken;13;Interdimensional Customs
+76548;Curry Powder Marvin Berry;Ludic;167.99;4.32;8;26879;restored;5;Cronenberg World
+7069;Grapefruit James Tiberius Kirk;Windsurf;14.37;0.5;1;22390;new;29;Arrakis
+194794107;Jasmine Rice Jennifer Parker;Topaz;37.44;5.57;2;72509;unavailable;23;Interdimensional Customs
+641;Rye Jadzia Dax;Ludic;198.51;4.78;8;32494;unavailable;5;Dwarf Terrace-9
+212280;Agility Freekeh;Optimist;35.96;0.5;1;13067;restored;19;On a Cob Planet
+887;Kangaroo Red The Bum;Optimist;30.69;1.18;1;40076;new;22;Kaitain
+109661319;Web Creation Salmon;Topaz;32.31;4.39;2;88782;unavailable;18;Dune
+618172;Cacao Marvin Berry;Topaz;35.81;4.94;2;3165;restored;11;Hideout Planet
+694;Purple Rice B'Elanna Torres;Optimist;32.04;0.5;1;86231;new;12;Glapflap
+4543771;Agave Syrup 3-D;Windsurf;10.12;0.77;1;67681;restored;45;Hobbit-hole
+1008147;Spatial Awareness Bacon;HobieDragoon;81.53;3.89;3;10305;broken;24;Screaming Sun Earth
+4096;Biokinesis Kangaroo;Taz;31.1;1.39;1;48109;new;17;Kaitain
+371;Magic Strawberries;Ludic;237.34;5.23;8;26651;new;15;Richesse
+32;Magic Resistance Butternut Pumpkin;Ludic;155.04;4.23;8;64541;new;15;Selusa Secundus
+2783839;Photographic Reflexes Semolina;Laser;194.95;5.53;2;72159;new;7;Ecaz
+2650057;Melting Zucchini;Windsurf;12.79;0.5;1;60280;new;44;Ix
+23843212;Energy Resistance Rice Noodles;Taz;31.77;0.88;1;25200;new;21;Cronenberg World
+209511;Mozzarella Lorraine Baines;Ludic;247.64;4.88;8;39540;new;20;Snorlab
+36908308;Cardamom George McFly;Laser;173.33;5.3;2;50577;restored;16;Ecaz
+4247;Camouflage Mustard Seed;Optimist;31.19;0.9;1;58848;unavailable;22;Glapflap
+3899729;Jewfish Mark Dixon;Topaz;30.38;5.39;2;44288;broken;10;Nargothrond
+4063851;Lentils Linda McFly;Patí Català;86.34;3.28;3;88753;new;31;Ix
+67721;Kenchur Mr. Peabody;Patí Català;95.13;4.01;3;37261;new;40;Alphabetrium
+30229;Clairvoyance Corn Oil;Optimist;30.95;0.5;1;12468;restored;13;Hideout Planet
+844764;Apotheosis Cornichons;Topaz;35.89;4.49;2;75336;restored;7;Interdimensional Customs
+883078;Telepathy Resistance Mangosteens;Laser;200.86;4.12;2;52588;unavailable;13;Gazorpazorp
+549;Mackerel Joey Baines;Topaz;36.47;5.03;2;25903;new;12;Bird World
+52;Margarine Phlox;Laser;240.04;4.26;2;30400;new;7;On a Cob Planet
+374184;Cream Geordi La Forge;Taz;35.06;1.24;1;71291;new;18;Dimension C-132
+49470047;Jewfish Match;HobieDragoon;86.02;3.13;3;58314;new;18;Dwarf Terrace-9
+5343752;Tamarillo Tuvok;Laser;196.65;4.43;2;33205;new;13;Screaming Sun Earth
+8407143;Animal Attributes Turnips;Patí Català;109.81;3.16;3;6103;new;21;Field of Celebrant
+818;Pineapple Neelix;HobieDragoon;112.62;3.59;3;78504;new;12;Bird World
+315283;Clairvoyance Wholewheat Flour;HobieDragoon;80.68;3.85;3;72948;new;12;Alphabetrium
+806159773;Nuts Malcolm Reed;Laser;194.07;4.19;2;83262;new;12;Richesse
+401847987;Haricot Beans Sally Baines;Ludic;258.83;5.39;8;41286;new;6;Earth
+502;Symbiote Costume Apple Juice;Optimist;36.64;0.5;1;55278;new;16;Screaming Sun Earth
+252;Water Joey Baines;Patí Català;105.2;4.1;3;56769;restored;36;Snorlab
+977522;Macadamia Nut Spock;HobieDragoon;112.43;3.6;3;27502;new;30;Kaitain
+438;Mustard Wesley Crusher;Patí Català;115.96;4.03;3;47598;unavailable;39;Earth
+27;Stealth Kidneys;Windsurf;11.48;0.5;1;80551;new;48;Pluto
+4462153;Besan George McFly;Patí Català;113.13;3.56;3;89163;new;31;Dimension C-137
+265632153;Chives Travis Mayweather;Windsurf;16.71;1.37;1;33104;new;32;Earth
+9281831;Camomile Quark;Laser;235.71;5.28;2;59752;new;10;Paths of the Dead
+4118020;Atmokinesis Pepitas;Optimist;30.13;1.03;1;24790;broken;15;Hideout Planet
+5854462;Fingerlime Deanna Troi;Taz;38.11;0.66;1;67016;new;20;Earth
+8250;Tea Miles O'Brien;Windsurf;11.21;1.28;1;73871;broken;44;Losgar
+380;Agave Syrup Tom Paris;Topaz;32.9;4.05;2;89112;new;21;Eastfarthing
+22606390;Jasmine Rice Marvin Berry;Patí Català;112.38;3.91;3;45743;restored;41;East Road
+77;Dark Chocolate Lorraine Baines;Laser;258.58;4.65;2;59248;unavailable;14;Ix
+4364116;English Spinach Miles O'Brien;Laser;229.61;4.79;2;54569;new;12;Hideout Planet
+475242;Corn Syrup Linda McFly;Topaz;33.29;5.57;2;20136;new;12;Earth
+387;Fingerlime Lorraine Baines;Topaz;34.58;5.5;2;61559;broken;24;Pluto
+6;Cottage Cheese Mark Dixon;Laser;252.54;5.38;2;22004;new;7;Earth
+894443541;Albacore Tuna Odo;Laser;221.92;5.34;2;72195;unavailable;13;Parblesnops
+456346602;Web Creation Turmeric;Topaz;36.4;5.72;2;14702;new;9;Gazorpazorp
+864;Hypnokinesis Annatto Seed;Optimist;36.88;0.65;1;6827;new;17;Planet Squanch
+62;Walnut Mark Dixon;Taz;32.31;0.5;1;27181;unavailable;21;Dwarf Terrace-9
+9154;Mountain Bread Deanna Troi;Patí Català;103.1;3.8;3;49504;broken;33;Parblesnops
+22;Nutmeg Lorraine Baines;Taz;37.59;0.5;1;65522;unavailable;14;On a Cob Planet
+45066;William Pear Kathryn Janeway;Laser;228.39;4.81;2;46943;restored;11;Houses of Healing
+32521;Vegetable Spaghetti Chakotay;Optimist;39.46;0.5;1;84074;new;15;Arbolez Mentorosos
+5703;Dark Chocolate Sam Baines;Topaz;33.0;4.05;2;86171;unavailable;10;Tol Galen
+25;Green Tea Noodles Sam Baines;HobieDragoon;112.74;3.81;3;56721;new;24;Alphabetrium
+30993;Rose Water Goldie Wilson;Optimist;30.52;0.5;1;22894;new;21;Caladan
+11067514;Cocoa Powder Sally Baines;Windsurf;9.56;1.26;1;67344;new;22;Kaitain
+3890;Force Fields Extra Virgin Olive Oil;Ludic;241.05;5.09;8;83402;restored;19;Gazorpazorp
+83;Weapon-based Powers Swordfish;Windsurf;16.45;0.5;1;28381;broken;44;Planet Squanch
+9345;Kiwi Berries Neelix;Patí Català;84.41;4.24;3;46588;new;40;Ecaz
+3244;Coconut Water Jennifer Parker;Patí Català;99.63;4.24;3;52965;new;21;On a Cob Planet
+231;Common Cultivated Mushrooms Milton Baines;Laser;201.26;4.05;2;74372;unavailable;14;Arbolez Mentorosos
+909428234;Energy Beams Coconut;Ludic;215.69;5.5;8;543;new;11;Kaitain
+1906356;Spring Onions George McFly;Topaz;38.84;4.62;2;85723;unavailable;12;Snorlab
+517144929;Provolone Sally Baines;Ludic;179.32;4.9;8;70338;restored;13;Cronenberg World
+654240;Vermicelli Noodles Goldie Wilson;HobieDragoon;97.23;3.71;3;3620;restored;20;Geidi Prime
+138;Brown Rice Dr. Emmett Brown;Topaz;39.38;4.73;2;35608;broken;8;Vaiya
+660616;Magic Wheat;HobieDragoon;88.98;3.67;3;84823;restored;22;Haven of the Eldar
+965428;French Eschallots Kathryn Janeway;Optimist;34.55;1.15;1;16053;new;11;Alphabetrium
+16899;Spelt Bread Linda McFly;Laser;166.3;5.17;2;84758;restored;8;Bird World
+88401;Sweet Potato Dave McFly;Ludic;192.79;5.19;8;65368;new;21;Kaitain
+793317;Haricot Beans William T. Riker;HobieDragoon;89.61;3.86;3;57981;new;15;Richesse
+1950;Hot Smoked Salmon Skinhead;Topaz;32.65;4.83;2;69557;new;10;Selusa Secundus
+700;Hijiki 3-D;Ludic;266.94;5.27;8;25041;restored;6;Luthany
+685;Power Absorption Garlic;HobieDragoon;91.74;3.99;3;65611;broken;28;Alphabetrium
+8459330;Hydrokinesis Snowpeas;Optimist;33.29;0.7;1;35226;new;14;Screaming Sun Earth
+4546;Brown Mushrooms George McFly;Taz;34.06;1.07;1;42802;new;11;Dwarf Terrace-9
+32728163;Nasturtium Malcolm Reed;Taz;39.43;1.25;1;88088;new;17;Dune
+658422819;Greenwheat Freekeh Charles Tucker III;Topaz;39.47;4.22;2;58715;restored;14;Gazorpazorp
+1731;Super Strength Ajowan Seed;Topaz;34.16;5.59;2;67328;new;16;Interdimensional Customs
+1418333;Coconut Oil Malcolm Reed;Windsurf;11.39;0.5;1;52839;broken;48;Dimension C-132
+205;Web Creation Loquats;Topaz;36.64;5.02;2;12707;new;11;Gladden Fields
+68287;Enhanced Touch Ricotta;Windsurf;13.83;0.5;1;9783;new;49;Gazorpazorp
+91;Vaporising Beams Hazelnut;HobieDragoon;116.51;3.93;3;20425;restored;29;Gazorpazorp
+428914;Tapioca Flour Jennifer Parker;Laser;161.89;4.02;2;82234;new;16;Bird World
+2683967;Pumpkin Stella Baines;Optimist;30.87;0.61;1;85051;new;22;Dune
+327478439;Swiss Chard Milton Baines;Taz;32.38;0.5;1;32078;new;23;Richesse
+54745;Agave Syrup Seven of Nine;HobieDragoon;92.99;4.35;3;87554;unavailable;35;Dimension C-132
+97894;Chinese Five Spice Sally Baines;Laser;186.59;4.03;2;1603;broken;10;Dimension C-132
+345;Vision Dragonfruit;Windsurf;14.18;0.53;1;68003;unavailable;24;Dwarf Terrace-9
+72899526;Telekinesis Coriander Seed;Patí Català;100.59;3.93;3;39567;unavailable;39;Cronenberg World
+809;Telekinesis Squash;Windsurf;8.85;1.28;1;6590;new;42;Earth
+8640817;Polenta Dr. Emmett Brown;Taz;38.92;0.5;1;67880;new;13;Pawn Shop Planet
+6626109;Apples Tom Paris;HobieDragoon;97.99;3.55;3;46996;new;37;Rath Dínen
+9023527;Sesame Oil Marty McFly;Laser;152.73;5.67;2;66835;new;10;Purge Planet
+55;Parmesan Cheese Kira Nerys;Taz;34.39;0.5;1;76026;new;24;Bird World
+61852;Projection Nasturtium;Optimist;35.53;1.03;1;76080;restored;10;Dune
+5599;Hypnokinesis Vanilla Beans;Topaz;35.54;5.69;2;31408;new;6;Pluto
+970;Walnut Einstein;Laser;255.56;4.01;2;63564;new;14;Old Forest
+680;Beetroot Seven of Nine;Taz;35.15;0.86;1;70715;new;7;Earth
+97952;Calamari Lorraine Baines;Laser;258.57;5.53;2;7525;restored;5;Taur-en-Faroth
+92604435;Longevity Sugar;Taz;32.89;1.28;1;81110;broken;6;Dwarf Terrace-9
+2740;Besan James Tiberius Kirk;Taz;37.48;0.56;1;6482;broken;15;Dimension C-137
+9729836;Vitakinesis Custard Apples;Taz;36.5;0.73;1;48472;new;8;Dwarf Terrace-9
+3793;Cross-Dimensional Awareness Beetroot;Topaz;31.85;4.51;2;20415;new;8;Interdimensional Customs
+6045965;Octopus Jennifer Parker;Patí Català;89.83;4.14;3;87332;new;36;Gorgoroth
+78309;Grapefruit Dr. Emmett Brown;Topaz;31.96;5.22;2;27088;broken;12;Ecaz
+36882;Monkfish Marty McFly;Topaz;31.37;4.54;2;20141;broken;10;Eastfarthing
+61645856;Fire Resistance Duck;Taz;33.33;1.34;1;40880;new;7;Pawn Shop Planet
+23936252;Spring Onions Travis Mayweather;HobieDragoon;113.38;3.53;3;58273;broken;16;Dimension C-137
+6191;Molecular Combustion Beetroot;Optimist;35.57;1.4;1;12797;restored;18;Cronenberg World
+115182;Pears Charles Tucker III;Taz;36.46;1.4;1;44281;unavailable;7;Parblesnops
+74045;Force Fields Harissa;Taz;35.63;0.77;1;60120;new;19;Purge Planet
+305;Tahini Neelix;HobieDragoon;98.45;3.54;3;56382;new;21;Gazorpazorp
+782914;Green Pepper Julian Bashir;Windsurf;15.35;0.77;1;26921;new;43;Parblesnops
+80715;Stamina Spelt Bread;Ludic;196.2;4.7;8;26174;new;8;Pawn Shop Planet
+324557;Qwardian Power Ring Sugar;Topaz;39.01;4.94;2;51006;new;21;Earth
+50265;Almond Oil Dave McFly;HobieDragoon;106.8;3.94;3;78981;new;34;Dimension C-137
+50994;Bean Sprouts Dave McFly;HobieDragoon;81.68;4.1;3;19765;new;20;Arrakis
+1077612;Rosemary Stella Baines;Ludic;158.44;4.51;8;43287;restored;6;East Beleriand
+486337;Radiation Absorption Spring Onions;Taz;35.61;0.72;1;79693;new;10;Tumladen
+38396;Web Creation Butter;Taz;33.1;0.56;1;81570;restored;9;Arrakis
+26;Swordfish Hikaru Sulu;HobieDragoon;103.18;4.3;3;64974;new;23;Snorlab
+7104;Power Nullifier Strawberries;Topaz;31.57;5.64;2;25200;broken;21;Cronenberg World
+728574;Heat Generation Mace;Taz;33.45;1.18;1;24143;unavailable;24;Gazorpazorp
+500811;Morwong William T. Riker;Topaz;38.97;4.36;2;7654;restored;21;Ecaz
+9572056;Vaporising Beams Lentils;Ludic;211.51;5.58;8;59509;new;10;Earth
+6490249;Edamame George McFly;Windsurf;13.59;0.5;1;18372;restored;19;Hideout Planet
+28;Tapioca Flour Dr. Emmett Brown;HobieDragoon;107.0;3.85;3;7592;restored;14;Geidi Prime
+9;Incaberries Sam Baines;Topaz;36.94;5.3;2;56881;restored;18;Snorlab
+9736373;Strawberries Natasha Yar;HobieDragoon;105.64;3.16;3;36200;new;17;Dune
+6879676;Green Pepper Odo;Laser;257.62;4.7;2;49289;unavailable;6;Cronenberg World
+4392;Yellow Papaw Marvin Berry;Laser;256.07;5.23;2;2486;new;6;Hideout Planet
+79;Pear Juice Mark Dixon;Optimist;30.54;0.5;1;61164;new;8;Arbolez Mentorosos
+8888422;Telepathy Resistance Honeydew Melon;Optimist;37.71;1.37;1;89856;unavailable;14;On a Cob Planet
+25439981;Smoked Trout Lou;Patí Català;105.67;3.72;3;59524;restored;30;Cronenberg World
+926410;Allspice Dave McFly;Ludic;193.39;5.04;8;44749;new;9;Screaming Sun Earth
+4519385;Animation Bread;Patí Català;108.6;3.16;3;21860;broken;32;Parblesnops
+98;Anchovies Miles O'Brien;HobieDragoon;117.32;4.01;3;81279;new;22;Cirith Ungol
+7307;Cos Lettuce Spock;Topaz;33.26;5.42;2;12409;new;13;Gazorpazorp
+2990380;Swiss Chard Skinhead;Ludic;201.1;4.97;8;2426;restored;21;East Road
+8118116;Balsamic Vinegar Mr. Peabody;Topaz;31.26;5.21;2;63670;restored;19;Ecaz
+66;Fennel Seven of Nine;Optimist;34.59;0.5;1;45699;new;14;Utumno
+312500167;Intelligence Edamame;HobieDragoon;94.54;3.67;3;35002;new;27;Gazorpazorp
+39762926;Flat Mushrooms Einstein;Topaz;36.48;4.29;2;52884;new;7;Alphabetrium
+268;Jelly Jean-Luc Picard;Laser;244.29;5.59;2;59680;new;14;Purge Planet
+851;Pyrokinesis Peas;Patí Català;97.51;3.1;3;58710;new;17;Dwarf Terrace-9
+1815076;Lettuce Biff Tannen;Windsurf;15.23;0.5;1;32195;restored;15;Ecaz
+82603173;Sake Mr. Peabody;Taz;31.79;0.73;1;14234;new;6;Dimension C-132
+308;Energy Blasts Nuts;Taz;34.65;0.5;1;72696;new;15;Parblesnops
+9165458;Heat Generation Pistachio Nut;HobieDragoon;106.21;3.61;3;68968;restored;31;Parblesnops
+13;Photokinesis Mullet;Patí Català;115.13;3.19;3;49113;broken;30;Gazorpazorp
+926832540;Pineapple Miles O'Brien;Topaz;37.24;5.18;2;1942;broken;10;Purge Planet
+7342516;Gula Melaka Deanna Troi;Taz;34.18;0.5;1;25417;broken;13;Kaitain
+42;Soy Sauce Jonathan Archer;Windsurf;9.17;0.88;1;80684;new;44;Pluto
+771;Qwardian Power Ring Milk Chocolate;Ludic;163.9;4.65;8;63320;new;9;Glapflap
+9152;Brie Beverly Crusher;Windsurf;14.69;0.5;1;52626;new;14;Caladan
+5952389;Pear James Tiberius Kirk;Windsurf;8.42;0.5;1;6431;new;26;Hideout Planet
+968214154;Turmeric Wesley Crusher;Laser;186.73;5.09;2;86435;new;19;Planet Squanch
+120850;Broccoli Chakotay;Topaz;38.49;4.17;2;5321;new;6;Bird World
+229;Licorice Stella Baines;Patí Català;83.37;4.08;3;75715;unavailable;39;Dimension C-132
+4571738;Separation Coconut;Laser;173.22;5.73;2;46092;unavailable;4;Planet Squanch
+1065;Celery Seed Leonard McCoy;Laser;248.47;4.56;2;80113;new;10;Dwarf Terrace-9
+73688679;Radicchio Sam Baines;Laser;171.68;5.73;2;30091;new;12;The Forsaken Inn
+812;Cross-Dimensional Travel Freekeh;Laser;212.24;5.47;2;2333;new;18;Dark Land
+10069740;Camomile Spock;Windsurf;12.98;0.5;1;51165;restored;44;Purge Planet
+95;Energy Manipulation Caraway Seed;Topaz;33.18;4.37;2;46522;unavailable;15;Losgar
+43;Projection Camomile;Optimist;38.27;0.5;1;49228;new;8;Rivendell
+314508;Fire Resistance Broccolini;Windsurf;15.18;0.5;1;68299;new;14;Glapflap
+73983;Barberry Mr. Strickland;Optimist;37.15;1.01;1;45336;unavailable;7;Selusa Secundus
+4642185;Tuna Malcolm Reed;Windsurf;18.04;0.89;1;24767;new;25;Selusa Secundus
+1349115;Cloves Skinhead;Patí Català;106.34;4.2;3;8319;new;34;Dune
+2696;Miso 3-D;Windsurf;16.55;0.5;1;13221;broken;49;Pluto
+300537325;Fresh Chillies Hikaru Sulu;Windsurf;18.3;1.2;1;12567;new;15;Caladan
+8947582;Energy Blasts Lamb;Ludic;225.26;5.41;8;37474;new;7;Ecaz
+2689;Pepitas Deanna Troi;Patí Català;115.6;4.35;3;70378;new;41;Earth
+995433;Garlic Mr. Peabody;Laser;217.96;5.68;2;49910;unavailable;16;Alphabetrium
+589129627;Radiation Absorption Mung Beans;Taz;31.8;1.27;1;43464;broken;24;Alphabetrium
+5670361;Blueberries Dave McFly;HobieDragoon;117.91;4.39;3;82307;unavailable;37;Dune
+859915894;Cardamom Biff Tannen;Patí Català;87.89;4.33;3;43441;new;36;Dune
+69199;Spelt Marvin Berry;Windsurf;12.5;1.33;1;78862;new;34;Richesse
+349;Invisibility Crabs;Taz;32.18;1.06;1;64247;new;23;Planet Squanch
+422;Haloumi Jean-Luc Picard;Taz;35.61;1.38;1;81424;restored;9;Richesse
+643;Avocado Oil Jadzia Dax;Topaz;33.16;4.16;2;89289;new;6;Interdimensional Customs
+36;Blue Eye Trevalla Marty McFly;Ludic;201.92;5.43;8;70592;restored;15;Selusa Secundus
+4124;Sunflower Oil Spock;Windsurf;14.42;0.5;1;59270;new;40;Arbolez Mentorosos
+4306;Projection Tamarillo;Patí Català;91.25;3.27;3;7087;broken;36;Ecaz
+29847184;Insanity Raisin;Windsurf;13.21;0.5;1;16059;new;32;Ix
+31992;Cardamom Dave McFly;Taz;36.99;0.5;1;61173;restored;8;Pluto
+611;Radiation Absorption Dark Chocolate;HobieDragoon;112.36;3.76;3;56994;restored;17;Gladden Fields
+1652;Self-Sustenance Vegetable Spaghetti;Taz;38.91;0.73;1;19557;new;15;Dimension C-132
+501891687;Dried Chinese Broccoli Jake Sisko;Patí Català;99.55;3.4;3;13972;new;34;Fords of Isen
+48;Lamb Jonathan Archer;Ludic;229.37;4.08;8;50134;new;6;Geidi Prime
+47;Mozzarella Linda McFly;Laser;260.9;5.67;2;76110;new;16;Arrakis
+562;Radar Sense Olive Oil;Laser;267.55;4.56;2;86613;new;15;Caladan
+969017;Pinto Beans Leonard McCoy;Windsurf;14.94;0.5;1;36018;new;16;Arbolez Mentorosos
+175707;Tom Yum James Tiberius Kirk;Windsurf;13.8;0.93;1;26082;restored;29;Land of the Sun
+163096;Animal Attributes Pear;Windsurf;13.73;0.86;1;30282;new;16;Alphabetrium
+16289;Szechuan Pepperberry Dave McFly;HobieDragoon;94.44;3.7;3;23769;broken;35;On a Cob Planet
+190670884;Bran Stella Baines;Topaz;39.46;4.7;2;30652;unavailable;17;Hideout Planet
+80;Coriander Leaves Harry Kim;Ludic;237.52;5.58;8;80612;new;4;Caladan
+4962817;Portal Creation Chicken Stock;Windsurf;10.56;0.5;1;71846;unavailable;17;On a Cob Planet
+61298;Intuitive aptitude Apple Cider Vinegar;Topaz;38.74;5.52;2;48332;broken;20;Pluto
+82586;Jewfish Joey Baines;Optimist;33.37;1.05;1;14665;new;22;Kaitain
+46858265;Animal Oriented Powers Brie;Optimist;37.27;0.53;1;24883;new;19;Ecaz
+95970531;Enhanced Senses Yellow Papaw;Windsurf;9.68;0.63;1;69899;new;28;Dimension C-132
+1487;Heat Generation Sour Dough Bread;Topaz;34.32;4.07;2;83577;new;12;Cronenberg World
+815899444;Human physical perfection Radish;Optimist;32.11;1.18;1;17290;new;23;Alphabetrium
+92;Sugar Tuvok;HobieDragoon;112.53;4.06;3;19903;new;31;Arrakis
+7684456;Mung Beans William T. Riker;Laser;218.45;5.57;2;73068;restored;5;Black Gate
+8857;Avocado Linda McFly;Laser;205.33;5.12;2;20124;restored;20;Hideout Planet
+547983;Choy Sum Jake Sisko;Patí Català;83.76;3.16;3;74406;new;38;Helm's Deep
+61916;Terrakinesis Kumera;Windsurf;12.31;0.56;1;20232;restored;41;Ecaz
+225222797;Empathy Jelly;Patí Català;97.21;4.3;3;43891;unavailable;38;Gazorpazorp
+35;Tea Oil Wesley Crusher;Taz;36.49;0.5;1;5212;new;9;Interdimensional Customs
+256;Provolone Milton Baines;Patí Català;100.28;3.72;3;15998;new;34;Interdimensional Customs
+6900060;Cryokinesis Annatto Seed;Windsurf;13.85;0.5;1;65088;new;28;On a Cob Planet
+871890101;Aerokinesis Sunflower Oil;Windsurf;13.91;1.39;1;85393;new;46;Endless Stair
+387846158;Power Augmentation Nectarines;HobieDragoon;97.31;4.13;3;58200;restored;29;Carchost
+8280;Tapioca Flour Milton Baines;Optimist;39.0;1.4;1;9718;new;10;Snorlab
+20320;Spring Onions Dr. Emmett Brown;Optimist;30.1;0.5;1;50031;new;19;Snorlab
+99270516;Cashews Geordi La Forge;HobieDragoon;97.42;3.95;3;65371;restored;13;Field of Celebrant
+19219261;Weapons Master Haloumi;Laser;237.81;4.68;2;58579;new;15;Glapflap
+7935;Monkfish Malcolm Reed;Optimist;38.86;0.5;1;30228;restored;14;Gazorpazorp
+875197;Squash Julian Bashir;Ludic;157.94;5.72;8;77444;new;15;Hobbit-hole
+4863452;Honeydew Melon Mr. Strickland;Laser;208.56;5.04;2;49558;new;5;Earth
+483;Garlic Deanna Troi;Taz;36.49;0.5;1;84781;new;7;Meduseld
+9674714;Amchur Dr. Emmett Brown;Windsurf;15.51;0.5;1;40931;broken;32;Pluto
+93106030;Magic Cloves;Ludic;254.48;4.56;8;90142;restored;11;Dimension C-137
+509795;Rye Kira Nerys;Ludic;240.57;4.59;8;18122;restored;6;Selusa Secundus
+21346737;Feijoa Dr. Emmett Brown;Topaz;36.89;5.27;2;15950;new;8;Earth
+99241;Vision Almonds;Optimist;30.98;0.5;1;49863;new;6;Planet Squanch
+3285243;Calamari Kira Nerys;Laser;164.55;4.57;2;64855;new;11;Planet Squanch
+2435;Bocconcini Jennifer Parker;Taz;35.44;0.55;1;47416;new;20;Minas Tirith
+1404454;Web Creation Plums;Laser;174.16;4.92;2;36045;unavailable;17;Geidi Prime
+115328;Greenwheat Freekeh Stella Baines;Taz;32.64;0.5;1;82248;new;8;Planet Squanch
+77463161;Tea Oil Tuvok;Optimist;38.21;0.96;1;13589;restored;19;Parblesnops
+70;Mandarins Einstein;Patí Català;100.74;3.33;3;58539;new;17;Ecaz
+30;Invulnerability Ricemilk;Windsurf;11.48;1.14;1;85986;new;33;Tol Brandir
+990123;Silverbeet Sally Baines;HobieDragoon;83.46;3.53;3;60748;new;36;Planet Squanch
+4688127;Pumpkin 3-D;Optimist;31.83;1.33;1;49987;new;20;Minas Tirith
+95611;Vaporising Beams Sour Dough Bread;Laser;182.43;4.37;2;52240;new;15;Dimension C-132
+298044758;Omnipotence Oat Flour;Windsurf;8.51;1.09;1;40163;restored;49;Elostirion
+69367712;Lobster Deanna Troi;Topaz;35.57;4.32;2;78391;restored;15;Cronenberg World
+715;Blue Swimmer Crab Red The Bum;Windsurf;11.8;0.5;1;45025;restored;20;Selusa Secundus
+7371;Intangibility Mustard Seed;Windsurf;13.66;0.6;1;71901;broken;48;Cirith Ungol
+906445;Umbrakinesis Mandarins;Ludic;225.91;5.37;8;66930;broken;7;Orthanc
+86917;Toxin and Disease Resistance Koshihikari Rice;Windsurf;17.84;0.5;1;70559;restored;18;Minhiriath
+1911133;Papaw Milton Baines;Windsurf;12.43;0.5;1;57975;new;20;Alphabetrium
+6189606;Longan Mr. Peabody;HobieDragoon;98.05;3.97;3;32918;restored;16;Ix
+1444238;Unbleached Flour Tom Paris;Laser;157.45;5.62;2;55327;new;13;On a Cob Planet
+999;Annatto Seed Wesley Crusher;HobieDragoon;105.42;4.07;3;64108;new;15;Dune
+52619916;Bulghur Jadzia Dax;Laser;172.92;4.35;2;75053;new;8;Screaming Sun Earth
+5820;Resurrection Macadamia Oil;Laser;204.8;4.4;2;50563;new;12;Isenmouthe
+172672230;Lotus Root William T. Riker;Laser;152.79;4.43;2;30474;unavailable;15;Parblesnops
+5140;Parsnip Tuvok;Laser;251.29;5.61;2;82222;new;17;Ix
+9672330;Butternut Lettuce Jennifer Parker;Ludic;247.27;4.92;8;8129;new;12;Ecaz
+17;Vaporising Beams Hijiki;Patí Català;99.36;3.03;3;44846;new;17;Earth
+48886233;Force Fields Basil Basmati Rice;Windsurf;12.04;0.62;1;68382;new;34;Ix
+319471546;Avocado George McFly;Optimist;32.16;0.51;1;36929;new;10;Arrakis
+32058919;Magic Beetroot;Topaz;38.6;5.07;2;26094;unavailable;22;Pluto
+50;Yellowtail Kingfish Match;Laser;240.56;5.58;2;42548;new;12;Pluto
+52863601;Apples Stella Baines;Patí Català;82.81;3.35;3;185;broken;28;Gladden Fields
+1741962;Nashi Pear Biff Tannen;Patí Català;87.19;3.0;3;18580;new;15;Interdimensional Customs
+363294858;Flight Eggplant;Ludic;192.46;4.37;8;32790;restored;15;Hideout Planet
+1280;Omnipotence Pear Juice;HobieDragoon;83.66;3.91;3;13427;restored;32;Alphabetrium
+153;Iceberg Lettuce Linda McFly;Patí Català;106.38;3.92;3;32674;restored;16;Regions of the Shire
+2393485;Besan Harry Kim;Laser;271.54;5.7;2;34112;restored;17;Hideout Planet
+63416944;Yoghurt Sam Baines;Optimist;36.49;0.67;1;37117;new;12;Isenmouthe
+3617;Wasabi Match;Patí Català;95.74;4.34;3;66595;new;14;Henneth Annûn
+73752;Wholewheat Flour Spock;HobieDragoon;99.05;3.58;3;60628;broken;15;Earth
+160489674;Iceberg Lettuce 3-D;Windsurf;15.82;0.66;1;2948;restored;35;Ix
+46551;Duck Travis Mayweather;Taz;37.9;0.5;1;21244;new;18;Geidi Prime
+210;Camomile Mr. Peabody;Taz;35.4;0.78;1;8392;unavailable;18;Parblesnops
+1595;Snapper Tuvok;Optimist;37.56;1.1;1;13558;unavailable;18;Bird World
+958821;Currants Lou;Taz;31.07;1.18;1;17013;unavailable;7;Dwarf Terrace-9
+7040319;Mastic Julian Bashir;Laser;182.06;5.11;2;19220;new;11;The Rivers and Beacon-Hills of Gondor
+3593;Purple Carrot Data;Ludic;166.5;5.37;8;73332;unavailable;14;Hideout Planet
+13500;Oyster Mushrooms Jean-Luc Picard;Topaz;37.05;4.07;2;70101;unavailable;17;Endless Stair
+50366159;Sweet Potato Harry Kim;Laser;208.34;4.99;2;40085;new;12;Arrakis
+5552115;Audiokinesis Brussels Sprouts;Patí Català;104.45;3.07;3;43069;new;25;Dimension C-137
+866527038;Hummus Linda McFly;Laser;160.24;5.66;2;21503;new;15;Glapflap
+73405;Flaxseed Match;Windsurf;10.15;0.97;1;11063;new;28;On a Cob Planet
+185537460;Tabasco James Tiberius Kirk;Optimist;38.87;0.5;1;73511;new;15;Hideout Planet
+979;Sweet Potato Biff Tannen;Windsurf;8.09;0.84;1;49396;unavailable;39;Dune
+24745831;White Flour Kira Nerys;Ludic;188.77;4.84;8;66968;broken;8;On a Cob Planet
+45652334;White Bread Leonard McCoy;Optimist;38.18;0.5;1;22424;broken;11;Pawn Shop Planet
+3545;Papaw Mr. Peabody;Patí Català;103.59;3.12;3;74632;restored;36;Fords of Isen
+185;Starfruit Benjamin Sisko;Optimist;35.33;0.51;1;3530;new;18;Arbolez Mentorosos
+84;Cavalo Mark Dixon;Taz;36.39;0.58;1;31826;new;15;Vista
+29;Symbiote Costume Haricot Beans;Patí Català;98.26;3.53;3;89678;new;29;Purge Planet
+55764909;Peas Pavel Chekov;Laser;199.05;4.07;2;24628;new;17;On a Cob Planet
+825004313;Dandelion Phlox;Patí Català;99.34;3.08;3;62889;new;17;Pawn Shop Planet
+799175249;Fennel T'Pol;Patí Català;98.23;3.58;3;44095;restored;33;Arrakis
+676716582;Watercress Kes;Optimist;32.05;0.5;1;75102;broken;19;Snorlab
+1809542;Cashews B'Elanna Torres;Laser;208.74;4.81;2;75986;new;11;Screaming Sun Earth
+218644;Probability Manipulation Rockmelon;Taz;30.77;1.02;1;41641;restored;18;Arbolez Mentorosos
+799359389;Wholemeal Dave McFly;Patí Català;97.61;3.18;3;39486;restored;29;Dimension C-132
+549189084;Clairvoyance Sun-Dried Tomatoes;HobieDragoon;103.19;3.96;3;30054;new;27;Dimension C-137
+5369;Bok Choy Jadzia Dax;Windsurf;14.55;1.35;1;14094;new;23;Hideout Planet
+9692;Liver Tom Paris;Ludic;202.13;5.04;8;20264;unavailable;7;Doriath
+59971979;Wholemeal B'Elanna Torres;Taz;38.87;0.5;1;49036;new;10;Snorlab
+26121;Sardines Quark;Optimist;30.57;0.89;1;83520;new;10;Hideout Planet
+963455;Chronokinesis Poppy Seed;Taz;39.28;0.5;1;32445;new;8;Taur-en-Faroth
+865;Prunes Sam Baines;Ludic;158.3;4.19;8;17667;new;16;Pluto
+25200553;Kangaroo Dr. Emmett Brown;Laser;155.0;4.26;2;61664;new;5;Ecaz
+21093951;Marjoram James Tiberius Kirk;Windsurf;16.14;0.9;1;59417;broken;32;Geidi Prime
+8285;Substance Secretion Soy Milk;Optimist;30.89;0.74;1;68441;new;19;Ix
+85276;Hiramasa Kingfish Harry Kim;Optimist;37.48;1.19;1;4256;restored;17;Ecaz
+2881669;Omnitrix Curry Powder;HobieDragoon;105.74;3.33;3;7997;unavailable;15;Richesse
+23591082;Wheatgrass Juice Mr. Strickland;Laser;195.49;4.74;2;29403;new;18;Geidi Prime
+2952;Cloves The Doctor;Taz;32.03;0.78;1;28357;restored;22;Dune
+211652;Sour Dough Bread Joey Baines;Taz;30.7;0.87;1;13475;new;17;Pawn Shop Planet
+75630546;Cake 3-D;Windsurf;14.26;0.5;1;82519;broken;37;Interdimensional Customs
+7206347;Calamari Joey Baines;Optimist;30.33;0.94;1;15089;new;10;Bird World
+877343;Brie The Doctor;HobieDragoon;82.79;4.1;3;6058;new;14;Selusa Secundus
+779;Reflexes Brazil Nut;Topaz;35.36;4.97;2;29359;new;23;Hideout Planet
+10;Pineapple Sam Baines;Optimist;32.2;0.5;1;15284;new;23;Purge Planet
+15747;Watercress Match;Taz;31.67;0.5;1;65961;restored;19;Arrakis
+269509;Safflower Oil George McFly;Ludic;247.72;4.55;8;36360;new;12;Arbolez Mentorosos
+7273;Sesame Oil Linda McFly;Patí Català;110.25;3.93;3;41062;new;33;Kaitain
+456064;Ability Shift Apple Juice Concentrate;Topaz;38.7;5.42;2;37933;restored;9;Gazorpazorp
+7980110;Duck Dr. Emmett Brown;Topaz;35.23;5.41;2;55104;unavailable;17;Arbolez Mentorosos
+887429;Spelt Worf;Topaz;37.28;4.78;2;7870;new;7;Dwarf Terrace-9
+853;Spelt Bread Jake Sisko;Ludic;167.02;4.55;8;16768;unavailable;8;Dune
+26318;Banish Hummus;Laser;182.16;5.0;2;69954;new;5;Parblesnops
+49248744;Cake Dr. Emmett Brown;Taz;32.53;0.5;1;80383;restored;24;Ix
+827491;Elemental Transmogrification Salmon;Patí Català;100.47;3.41;3;72869;new;15;Hobbit-hole
+1233;Allspice Marty McFly;Taz;37.59;0.5;1;74591;restored;9;Dwarf Terrace-9
+7626;Summoning Papaya;HobieDragoon;116.36;3.35;3;40611;new;17;Alphabetrium
+50409285;Kombu George McFly;Windsurf;14.14;0.74;1;42410;restored;27;Snorlab
+522522;Sage Linda McFly;Laser;272.87;4.75;2;51892;new;6;Geidi Prime
+4271;Black Eyed Beans Lou;Laser;237.62;5.7;2;23144;new;13;Dwarf Terrace-9
+489949;Grape Seed Oil Nyota Uhuru;Patí Català;84.41;3.92;3;35544;new;28;Alphabetrium
+845535;Spring Onions Red The Bum;HobieDragoon;96.54;3.52;3;52080;new;30;Kaitain
+3964;Almond Oil Red The Bum;Windsurf;12.84;0.77;1;51711;new;43;Cronenberg World
+507856;Honeydew Melon Sally Baines;Taz;30.51;0.61;1;61760;new;14;Glapflap
+3431343;Nutmeg Julian Bashir;Taz;32.66;1.36;1;6409;new;11;Geidi Prime
+50566722;Whiting Wild Rice Lorraine Baines;Laser;154.61;4.53;2;78892;new;14;Dimension C-132
+6140;Snowpea sprouts Jonathan Archer;Taz;31.65;0.5;1;63709;unavailable;14;Crack of Doom
+410321478;Nuts Marvin Berry;Windsurf;11.74;0.55;1;72507;new;21;Earth
+65;Beef Stock Jean-Luc Picard;HobieDragoon;89.01;3.55;3;34687;unavailable;32;Arbolez Mentorosos
+2256476;Wakame Phlox;Patí Català;87.81;3.55;3;59490;restored;36;Purge Planet
+45230;Camembert Mr. Peabody;Windsurf;17.24;1.21;1;40935;new;47;Old Forest Road
+522;Enhanced Memory Nutritional Yeast;Taz;30.05;0.5;1;84387;broken;23;Selusa Secundus
+3654212;Vision Tofu;HobieDragoon;89.21;3.57;3;38776;unavailable;16;Purge Planet
+396404809;Sardines Pavel Chekov;Topaz;36.03;4.57;2;244;new;23;Geidi Prime
+97830134;Brown Rice Vinegar Marty McFly;Topaz;33.21;4.35;2;22575;new;8;Parblesnops
+971493633;Super Speed Haloumi;Laser;153.89;4.05;2;21053;unavailable;11;Hideout Planet
+607853;Energy Absorption Szechuan Pepperberry;Taz;30.49;1.2;1;49468;new;23;Snorlab
+474;Plums Neelix;Laser;251.92;4.1;2;66650;broken;12;Losgar
+1006858;Chinese Cabbage Sam Baines;Ludic;201.58;4.29;8;5940;new;16;Geidi Prime
+29169;Haloumi Worf;Optimist;37.53;1.16;1;82543;new;15;Gladden Fields
+89051;Kidney Beans Linda McFly;Windsurf;8.44;0.83;1;71838;new;49;Dwarf Terrace-9
+68111;Sesame Oil Lorraine Baines;HobieDragoon;103.06;3.88;3;80588;unavailable;34;Inn of the Prancing Pony
+75515541;Energy Resistance Snowpea sprouts;Optimist;38.58;0.85;1;83603;restored;11;Glapflap
+65855068;Nutmeg George McFly;Laser;164.58;4.69;2;74425;new;15;Gazorpazorp
+51;Illusions Corn Oil;Windsurf;9.01;0.5;1;40944;new;47;Selusa Secundus
+8692;Agility Rice Noodles;Windsurf;17.22;0.56;1;16098;broken;34;On a Cob Planet
+5654689;Oats Biff Tannen;Patí Català;87.64;4.15;3;53980;new;19;Dune
+31;Hypnokinesis Pomegranate;Patí Català;107.82;3.02;3;41317;new;37;Bird World
+6924637;Bay Leaves Montgomery Scott;HobieDragoon;116.74;3.29;3;68298;new;24;Glapflap
+817411;Melting Pecorino;Laser;167.8;4.74;2;69263;restored;17;Interdimensional Customs
+226;Vegetable Oil Match;Optimist;34.15;0.54;1;88038;new;10;Bridge of Khazad-dûm
+8299719;Soy Mr. Strickland;Topaz;36.07;4.65;2;74303;new;17;Dome of Stars
+852;Avocado Odo;Windsurf;11.96;1.19;1;21023;restored;16;Kaitain
+53093457;Watermelon Worf;Windsurf;18.36;0.5;1;39633;new;46;Screaming Sun Earth
+155589396;Shapeshifting Leeks;Optimist;35.66;0.5;1;48225;new;8;Selusa Secundus
+97559229;Cranberry The Doctor;Topaz;38.91;4.12;2;88788;new;18;Cronenberg World
+44542;Tangelo Spock;Ludic;213.39;5.22;8;11147;new;12;Glapflap
+82;Horseradish Marty McFly;Windsurf;10.51;1.39;1;68018;restored;32;Cronenberg World
+26521180;Energy Manipulation Broccolini;Laser;156.98;5.69;2;23926;restored;16;Angband
+56;Haloumi The Doctor;Optimist;34.74;0.8;1;84270;restored;12;Alphabetrium
+7364979;Jerusalem Artichoke Skinhead;Laser;204.18;4.12;2;49686;new;6;Ix
+9878464;Sonic Scream Wholemeal;Optimist;35.99;0.5;1;72437;new;10;Orthanc
+75699;Vision Warehou;Windsurf;14.59;0.5;1;78472;new;14;Snorlab
+28813872;Cross-Dimensional Travel Fromage Blanc;Optimist;34.06;0.69;1;38279;new;6;Snorlab
+843114;Banana Benjamin Sisko;Windsurf;9.62;0.94;1;50511;new;38;Glapflap
+40875;Beef Stock Skinhead;Windsurf;17.21;0.57;1;47970;new;24;Pawn Shop Planet
+776;Kale Lorraine Baines;Taz;39.43;0.5;1;27611;new;10;On a Cob Planet
+1340144;Reflexes Flaxseed;Topaz;33.59;4.19;2;70755;broken;24;Gazorpazorp
+671623;Butter Beans Kira Nerys;Ludic;211.22;4.77;8;38898;new;13;Screaming Sun Earth
+59606;Tahini George McFly;Ludic;171.99;4.13;8;61195;new;14;Richesse
+20647206;Blue Eye Trevalla Match;Optimist;38.16;0.72;1;54548;new;8;Dimension C-137
+5050172;Radar Sense Cornmeal;Laser;187.73;5.57;2;35931;new;20;Pawn Shop Planet
+92734;Vision Chinese Five Spice;Laser;157.09;4.23;2;63148;new;16;Pawn Shop Planet
+27382278;Kokam Marty McFly;HobieDragoon;94.59;3.69;3;43381;new;26;Richesse
+995;Chickory B'Elanna Torres;Ludic;185.14;4.3;8;73011;new;17;Alphabetrium
+614;Slivered Almonds Jonathan Archer;Windsurf;15.81;0.5;1;39546;restored;44;Aldburg
+223051041;Cold Resistance Coconut Water;Windsurf;14.81;1.0;1;41749;new;15;Snorlab
+364947688;Vision Avocado Oil;Patí Català;87.36;3.63;3;50931;new;27;Dimension C-132
+32333;Alfalfa Marvin Berry;Laser;181.79;5.16;2;61680;restored;14;Alphabetrium
+9887;Carrot Seven of Nine;Laser;219.09;5.43;2;18223;restored;8;Arbolez Mentorosos
+85;Molecular Dissipation Vegetable Spaghetti;Laser;171.16;4.82;2;41682;broken;18;Alphabetrium
+26435;Self-Sustenance Tom Yum;Patí Català;87.88;3.21;3;83034;new;36;Pawn Shop Planet
+500;Olive Oil Jake Sisko;Topaz;37.06;4.59;2;43729;restored;23;Alphabetrium
+617;Bulghur Jake Sisko;Taz;36.34;0.92;1;39314;restored;25;Planet Squanch
+351390758;Sausages James Tiberius Kirk;Ludic;192.29;5.55;8;25445;new;10;Pawn Shop Planet
+633019625;Chestnut Wesley Crusher;Topaz;38.49;4.14;2;89157;new;11;Taur-en-Faroth
+706789;Bullet Time French Eschallots;Taz;33.31;1.33;1;35180;restored;20;Dwarf Terrace-9
+2741;Elasticity Papaya;Ludic;159.97;5.64;8;62643;restored;16;The Void
+8823;Hokkien Noodles Marvin Berry;Ludic;198.91;5.68;8;25174;broken;17;Taur-im-Duinath
+33545;Water Mr. Peabody;Topaz;30.57;4.53;2;61038;restored;16;Nargothrond
+593;Banana Miles O'Brien;Windsurf;17.0;1.38;1;80190;new;44;Tol Galen
+1026029;Heat Resistance Honeydew Melon;Windsurf;17.65;1.16;1;16896;new;31;Earth
+4787;Intuitive aptitude Common Cultivated Mushrooms;Patí Català;111.42;4.16;3;35299;restored;32;Hideout Planet
+2750;Apple Juice William T. Riker;Windsurf;16.56;0.5;1;85963;unavailable;37;Parblesnops
+6559934;Immortality Barley;Windsurf;16.79;0.6;1;89138;restored;27;Angband
+2238;Chia Seeds Odo;Windsurf;8.13;0.5;1;80770;broken;15;Dwarf Terrace-9
+20439;Fish Sauce Phlox;Ludic;252.18;4.83;8;69087;unavailable;17;Planet Squanch
+626880437;Hyperkinesis Aniseed;Taz;38.21;0.5;1;8788;broken;14;Bird World
+5222692;Lotus Root The Doctor;Laser;240.43;4.07;2;48724;restored;18;Arbolez Mentorosos
+9765758;Soy Match;Laser;242.85;5.18;2;19676;new;8;Bridge of Khazad-dûm
+685033865;Chia Seeds Jadzia Dax;HobieDragoon;115.33;3.57;3;84685;restored;38;Screaming Sun Earth
+7476;Annatto Seed Tuvok;Windsurf;14.61;1.34;1;66758;new;47;Crack of Doom
+20;Agility Buckwheat;Patí Català;97.79;3.53;3;16024;unavailable;36;Endless Stair
+2639245;Darkforce Manipulation Avocado;Ludic;244.42;4.7;8;40809;new;7;Alphabetrium
+973477;Tea William T. Riker;Topaz;37.73;4.15;2;16370;new;10;On a Cob Planet
+931648;Choy Sum Jean-Luc Picard;Taz;33.3;1.13;1;82017;restored;9;Screaming Sun Earth
+83039019;Lotus Root Nyota Uhuru;Windsurf;9.17;0.98;1;88416;restored;35;Nargothrond
+12520112;Sunflower Oil Pavel Chekov;Patí Català;84.27;3.72;3;37550;restored;37;Richesse
+25862462;Dill Lou;Laser;234.29;4.47;2;30019;restored;11;Bird World
+277380558;Peppercorns Match;Topaz;31.12;4.13;2;71809;restored;22;Glapflap
+385;Blackberries Linda McFly;Optimist;33.32;0.97;1;14700;new;17;On a Cob Planet
+9352512;Kidney Beans Jennifer Parker;Windsurf;15.65;0.57;1;18218;new;49;Enchanted Isles
+3254;Clams Hoshi Sato;Patí Català;80.67;3.7;3;55279;new;36;Inn of the Prancing Pony
+74;Tea 3-D;Windsurf;11.18;1.16;1;83449;unavailable;32;Alphabetrium
+45535067;Animation Nutmeg;Ludic;171.27;4.37;8;81672;restored;4;Richesse
+3533;Time Travel Tabasco;Taz;30.13;1.12;1;26774;new;22;Tol Brandir
+813906;Telepathy Resistance Cous Cous;Taz;31.18;1.07;1;39141;restored;7;Selusa Secundus
+5321;Chicken Stock Chakotay;Windsurf;12.44;0.84;1;4732;new;14;Pawn Shop Planet
+28803123;Raisin Sam Baines;Windsurf;9.89;0.5;1;6183;restored;46;Planet Squanch
+31773066;Biokinesis Green Pepper;Ludic;230.54;4.19;8;3260;new;13;Old Forest
+73591101;Pear Chakotay;Windsurf;14.71;1.39;1;56762;new;45;Richesse
+52080521;Brown Rice Vinegar Stella Baines;Taz;31.9;0.8;1;58805;new;11;Helm's Deep
+58431728;Avocado Deanna Troi;Topaz;37.91;4.67;2;26382;new;10;Purge Planet
+63693;Apotheosis Okra;Ludic;168.88;4.66;8;38471;new;20;Planet Squanch
+87;Albacore Tuna Hikaru Sulu;Laser;184.99;5.65;2;65369;broken;8;Orthanc
+705130988;Insanity Chilli Pepper;Ludic;172.08;5.63;8;65055;unavailable;18;Aglarond
+44802570;Tangelo Jake Sisko;Windsurf;12.96;0.59;1;85101;new;36;Parth Galen
+4698132;Cherries Data;HobieDragoon;92.38;3.19;3;17461;unavailable;19;Dark Land
+66047;Power Cosmic Alfalfa;Topaz;31.09;4.42;2;38901;new;7;Vista
+87175721;Mullet Biff Tannen;Topaz;34.74;4.08;2;56805;restored;14;Gazorpazorp
+9709;Sea Salt Deanna Troi;Topaz;34.66;5.61;2;88246;new;12;Caladan
+88245;Psionic Powers Quark Quinc;Patí Català;112.26;3.66;3;62093;new;40;East Road
+74706;Longan Lou;Windsurf;11.94;0.5;1;88163;new;21;Glapflap
+664394287;Jump Oats;Optimist;34.65;1.02;1;14651;new;12;Richesse
+7740810;Illumination Blue Cheese;Ludic;159.28;5.11;8;70388;unavailable;13;Planet Squanch
+7659991;Passionfruit George McFly;Taz;30.57;0.5;1;31011;broken;20;Cronenberg World
+810;Aniseed Geordi La Forge;HobieDragoon;99.95;3.46;3;18948;new;24;Dwarf Terrace-9
+41103;Beef Dave McFly;Taz;37.05;0.5;1;3945;broken;14;Dwarf Terrace-9
+498389738;Echokinesis Flaxseed Oil;Optimist;37.95;0.5;1;83445;restored;19;Caladan
+99759724;Pasta Mark Dixon;Taz;34.54;0.65;1;88378;new;20;Pluto
+6181;Omnitrix Almonds;Topaz;33.86;4.05;2;53978;new;17;Gazorpazorp
+64852;Coffee Neelix;Taz;31.53;0.51;1;70278;new;25;Earth
+3567779;Grapes Worf;Optimist;37.29;0.5;1;68137;new;17;Pawn Shop Planet
+72743;Dates Biff Tannen;HobieDragoon;86.8;4.22;3;78009;new;23;Richesse
+95917;Vision Milk Chocolate;Windsurf;16.49;1.14;1;32341;unavailable;48;Selusa Secundus
+128930358;Tahini Milton Baines;Windsurf;13.25;1.14;1;52700;new;35;Kaitain
+62697;White rice Mark Dixon;Patí Català;87.87;4.18;3;66549;restored;26;Gorgoroth
+94822;Grapefruit Mr. Strickland;Optimist;30.6;1.26;1;20251;restored;14;Doors of Durin
+7742;Enhanced Touch Cornichons;Taz;31.46;0.5;1;56732;new;13;Geidi Prime
+67742;Cream Natasha Yar;Laser;227.48;5.44;2;32759;restored;21;On a Cob Planet
+43528;Redfish Biff Tannen;Windsurf;17.9;0.5;1;48367;new;41;Dune
+475;Tabasco Jadzia Dax;HobieDragoon;83.31;3.99;3;34609;unavailable;19;Cronenberg World
+682201;Agar Goldie Wilson;Optimist;36.14;0.57;1;54176;new;14;Purge Planet
+69;Bush Tomato Data;HobieDragoon;82.95;3.71;3;40061;new;21;Arrakis
+311831;Endurance Oranges;Taz;38.07;0.57;1;85202;restored;22;Planet Squanch
+865894817;Sea Salt Charles Tucker III;Windsurf;10.53;0.83;1;61745;new;21;Dune
+7927;Green Tea Julian Bashir;Laser;155.62;5.72;2;47627;restored;18;Screaming Sun Earth
+329101;Substance Secretion Muesli;HobieDragoon;100.58;4.24;3;47047;unavailable;16;Geidi Prime
+336164777;Telepathy Resistance Olive Oil;Topaz;38.8;4.54;2;34088;new;13;Dune
+82670;Probability Manipulation Almond Oil;HobieDragoon;117.01;3.76;3;2621;unavailable;30;Ecaz
+367650;Underwater breathing Spearmint;Taz;35.69;0.5;1;52179;new;22;On a Cob Planet
+288356195;Warehou Chakotay;Windsurf;14.07;0.5;1;39941;broken;24;Interdimensional Customs
+649282931;Barley Marty McFly;Patí Català;117.49;3.12;3;30639;new;24;Nargothrond
+52100483;Grim Reaping Apples;Windsurf;8.13;1.09;1;35776;unavailable;31;Dimension C-132
+58027387;Possession Tamarillo;Windsurf;18.21;0.5;1;44707;new;34;Parblesnops
+29809150;Jump Kudzu;Optimist;34.24;0.5;1;31606;broken;18;Argonath
+86;Portal Creation Cheddar;Topaz;30.06;4.27;2;37461;new;19;Dimension C-137
+34513;Blood Oranges Benjamin Sisko;Windsurf;11.24;0.5;1;68588;restored;41;Gazorpazorp
+596;Kiwi Fruit Stella Baines;Ludic;205.9;4.9;8;4906;unavailable;16;Andustar
+31229306;Chestnut Match;Topaz;38.02;4.35;2;7387;restored;9;Selusa Secundus
+18445;Tarragon Nyota Uhuru;Patí Català;87.52;3.95;3;19577;broken;15;Cirith Ungol
+47815747;Anti-Gravity Provolone;Taz;36.77;0.5;1;1914;unavailable;7;Dimension C-137
+4820;Stamina Cottage Cheese;Ludic;250.91;4.45;8;2492;restored;11;Interdimensional Customs
+6763776;Regeneration Bean Shoots;Optimist;33.68;0.73;1;30566;unavailable;24;Richesse
+537192;Pork 3-D;HobieDragoon;80.05;4.09;3;77705;new;31;Geidi Prime
+20541552;Electrokinesis Aubergine;Ludic;170.68;5.11;8;43475;new;20;Cronenberg World
+391952;Sour Dough Bread Kira Nerys;Windsurf;17.31;0.5;1;29852;broken;14;Bird World
+770248;Heat Resistance Beetroot;Patí Català;105.98;4.04;3;24600;new;14;Earth
+54583;Animal Oriented Powers Dandelion;HobieDragoon;116.43;4.09;3;62257;new;37;Cronenberg World
+43547;Buttermilk James Tiberius Kirk;Topaz;37.15;5.16;2;39110;unavailable;10;Gazorpazorp
+876828;Mulberries Mr. Peabody;Taz;32.61;0.5;1;68467;new;10;Dune
+9540718;Bean Shoots Hikaru Sulu;Taz;30.36;0.93;1;29229;broken;21;Ecaz
+796;Arrowroot Natasha Yar;Taz;31.01;0.53;1;89926;new;21;Dwarf Terrace-9
+641958;Lobster Jadzia Dax;Laser;179.27;4.8;2;54784;new;9;Earth
+345529;Fruit The Doctor;Optimist;31.05;0.52;1;41428;new;7;Parblesnops
+93441642;Cross-Dimensional Travel Ricemilk;Ludic;227.02;5.7;8;59302;new;19;Meduseld
+3302;Aerokinesis Liver;HobieDragoon;103.34;3.1;3;48552;new;26;Dwarf Terrace-9
+953251176;Juniper Berries Einstein;Windsurf;16.94;0.82;1;13336;unavailable;23;Planet Squanch
+4678748;Wishing Nectarines;Optimist;32.65;0.88;1;62322;new;22;Eastfarthing
+56082788;Vision Oranges;Topaz;35.67;4.56;2;56966;new;19;Purge Planet
+830;Pomegranate Spock;Ludic;231.72;5.58;8;58197;new;12;Bag End
+12213;Melting Pork;Ludic;216.47;4.67;8;90208;broken;19;Marish
+316942;Nashi Pear Kathryn Janeway;Topaz;32.73;5.17;2;58341;new;16;Earth
+439843250;Sea Salt 3-D;Optimist;30.65;1.17;1;61745;restored;24;Interdimensional Customs
+5584;Cavalo Pavel Chekov;HobieDragoon;96.9;3.23;3;85395;new;19;Ilmen
+459;Yellow Papaw Jean-Luc Picard;Laser;199.04;5.45;2;35648;broken;20;Glapflap
+456177667;Death Touch Sea Salt;Taz;36.76;1.13;1;67440;new;16;Purge Planet
+374095819;Cream Cheese Marty McFly;Optimist;37.32;1.18;1;47723;new;18;Hideout Planet
+137600;Greenwheat Freekeh Nyota Uhuru;Optimist;34.36;0.9;1;38923;new;8;Screaming Sun Earth
+89483547;Soba 3-D;Taz;30.83;1.28;1;46056;new;10;Screaming Sun Earth
+2919;Garlic Montgomery Scott;Ludic;211.78;4.53;8;56030;unavailable;4;Arbolez Mentorosos
+59040370;Raspberry Dave McFly;Windsurf;10.21;1.03;1;26709;new;20;Kaitain
+7618156;Bran The Doctor;Laser;189.52;5.41;2;85918;new;19;Caladan
+466784283;Fruit Jonathan Archer;Topaz;36.4;5.35;2;54602;new;23;Pluto
+363228;Parsnip Nyota Uhuru;Laser;204.94;4.28;2;10768;new;7;Snorlab
+1456;Vision Asafoetida;Optimist;35.52;0.5;1;11874;new;22;Ecaz
+430;Caraway Seed Miles O'Brien;Topaz;38.46;5.66;2;53291;new;21;The Void
+49155;Yoghurt Jonathan Archer;Topaz;38.71;4.28;2;27092;unavailable;18;Cronenberg World
+6385193;Wasabi Lorraine Baines;HobieDragoon;100.59;3.2;3;53911;new;27;Parth Galen
+438858;Oregano 3-D;Taz;36.86;0.59;1;72099;restored;7;Maglor's Gap
+34332472;Molecular Manipulation Soy Beans;Laser;191.56;5.31;2;77051;new;5;Earth
+32917;Molecular Combustion Asafoetida;Topaz;36.89;4.96;2;46855;new;7;Geidi Prime
+7488099;Blueberries Mark Dixon;HobieDragoon;103.16;3.26;3;19559;new;17;Eastfarthing
+1910;Aerokinesis Fish Sauce;Patí Català;100.02;3.78;3;15033;broken;28;Isle of Balar
+2851;Stealth Liver;Taz;30.39;1.08;1;32921;unavailable;22;Arrakis
+7254426;Coconut Joey Baines;Ludic;243.03;5.59;8;58881;broken;10;The Void
+9606;Quinoa Kathryn Janeway;Taz;38.85;0.69;1;37727;new;15;Purge Planet
+5113535;Telepathy Mahlab;Taz;33.5;0.62;1;5467;new;24;Parblesnops
+639;Power Cosmic Watercress;Optimist;33.44;0.96;1;56909;new;10;Houses of Healing
+504;Stevia Mark Dixon;HobieDragoon;96.28;3.95;3;30037;new;33;The Void
+275328;Extra Virgin Olive Oil Neelix;Topaz;30.22;4.62;2;10979;restored;8;Glapflap
+1185111;Bacon T'Pol;Patí Català;111.96;4.14;3;63986;new;19;Dwarf Terrace-9
+372;Asparagus Biff Tannen;Laser;216.15;4.59;2;44765;new;20;Cronenberg World
+23383103;Butternut Lettuce Leonard McCoy;Optimist;37.38;1.08;1;18420;new;13;Gazorpazorp
+22486714;Chestnut Skinhead;Patí Català;85.14;3.73;3;84069;restored;21;Kaitain
+656;Kidneys B'Elanna Torres;Taz;31.64;0.5;1;42290;restored;20;Land of the Sun
+727700607;Lobster The Doctor;Laser;237.63;5.6;2;68347;new;6;Alphabetrium
+299426;Mullet Tom Paris;Topaz;36.19;4.27;2;47185;new;12;Bird World
+462;Heat Resistance Coriander Seed;Laser;262.89;5.48;2;789;restored;15;Dimension C-137
+3699;Invisibility Fruit;Topaz;38.94;4.12;2;90040;new;19;Cronenberg World
+498;Raisin Data;Ludic;266.94;5.3;8;46281;restored;11;Geidi Prime
+144480;Water Jonathan Archer;Topaz;37.7;5.03;2;77757;broken;10;Dune
+3525950;Ham Miles O'Brien;Windsurf;15.69;0.91;1;47045;broken;28;Purge Planet
+407673;Flour Milton Baines;Patí Català;110.92;3.39;3;57525;unavailable;17;Gladden Fields
+78;Carrot Milton Baines;Topaz;30.75;5.67;2;39800;new;9;Ecaz
+57165;Rose Water Worf;Laser;157.21;5.04;2;9295;new;12;Vista
+8347230;Sun-Dried Tomatoes George McFly;Windsurf;15.0;0.5;1;62428;new;37;Glapflap
+899987;Matter Absorption Shiitake Mushrooms;Taz;32.28;1.17;1;7638;broken;15;Earth
+9025;Eggplant Natasha Yar;Optimist;32.55;1.17;1;18477;restored;10;Pluto
+57737;Celery Malcolm Reed;Optimist;36.39;1.32;1;87954;restored;7;Dwarf Terrace-9
+210315;Kumera Marty McFly;Optimist;30.48;0.77;1;85385;new;22;Endless Stair
+468;Cardamom Tuvok;Laser;245.24;4.11;2;11896;unavailable;19;Bird World
+670149558;Magic Resistance Apple Cider Vinegar;Taz;31.55;0.5;1;48275;new;17;Argonath
+43133;Reflexes Dried Apricots;Ludic;272.65;4.86;8;72515;new;6;Parblesnops
